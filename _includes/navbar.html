@@ -1,0 +1,19 @@
+<div class="p-4 pb-0 mb-0 d-flex align-items-start align-items-center justify-content-between align-items-xl-start flex-xl-column navbar-container ps-xl">
+    <a href="{{site.baseurl}}/"><img src="{{ site.baseurl }}/assets/img/logo.svg" alt="Fuso" class="site-title"></a>
+    <div class="pages-nav nav-flex font-attila mt-xl-3">
+        {% for nav in site.data.navigation-fuso %}
+            <div {% if nav.url == page.url %} class="nav-active text-center"{% endif %}><a href="{{ site.baseurl}}{{ nav.url }}" class="me-3 nav-item">{{ nav.text }}</a></div>
+
+        {% endfor %}
+        <div class="mobile-nav mt-5"></div>
+        <br class="mobile-nav">
+        <a href="#" class="font-mesclo mx-3 mx-xl-0 nav-item language">PT</a>
+    </div>
+    <div class="mobile-nav ms-4">
+        <div id="close-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</div>

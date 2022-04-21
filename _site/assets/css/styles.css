@@ -1,0 +1,62 @@
+@font-face { font-family: "Roxie Rossa"; src: url("../fonts/Roxie Rossa 400.otf"); font-weight: normal; }
+
+@font-face { font-family: "Sequel Sans Roman Body"; src: url("../fonts/Sequel Sans Roman Body.otf"); font-weight: normal; }
+
+.font-rossa { font-family: 'Roxie Rossa'; }
+
+.font-sequel { font-family: "Sequel Sans Roman Body"; }
+
+body { font-family: "Sequel Sans Roman Body"; }
+
+.bg-red { background-color: #e64d3c; }
+
+.navbar-container { position: sticky; top: 0; left: 0; z-index: 6; width: 100%; transition: 0.2s; }
+
+.nav-active { border-radius: 50%; }
+
+.nav-shadow { transition: 0.2s; background-color: white; }
+
+/* HAMBURGER NAV */
+#close-icon { width: 50px; height: 38px; position: relative; margin: 10px; margin-left: 0; -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg); transform: rotate(0deg); -webkit-transition: .5s ease-in-out; -moz-transition: .5s ease-in-out; -o-transition: .5s ease-in-out; transition: .5s ease-in-out; cursor: pointer; margin-bottom: 1.8em; z-index: 10; }
+
+#close-icon span { display: block; position: absolute; height: 2px; width: 100%; background-color: black; border-radius: 0; opacity: 1; left: 0; -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -o-transform: rotate(0deg); transform: rotate(0deg); -webkit-transition: .25s ease-in-out; -moz-transition: .25s ease-in-out; -o-transition: .25s ease-in-out; transition: .25s ease-in-out; }
+
+#close-icon span:nth-child(1) { top: 0px; -webkit-transform-origin: left center; -moz-transform-origin: left center; -o-transform-origin: left center; transform-origin: left center; }
+
+#close-icon span:nth-child(2) { top: 14px; -webkit-transform-origin: left center; -moz-transform-origin: left center; -o-transform-origin: left center; transform-origin: left center; }
+
+#close-icon span:nth-child(3) { top: 28px; -webkit-transform-origin: left center; -moz-transform-origin: left center; -o-transform-origin: left center; transform-origin: left center; }
+
+#close-icon.open span:nth-child(1) { -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); top: -3px; left: 8px; }
+
+#close-icon.open span:nth-child(2) { width: 0%; opacity: 0; }
+
+#close-icon.open span:nth-child(3) { -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); top: 33px; left: 8px; }
+
+.mobile-nav { display: none; }
+
+.site-title { width: 100%; }
+
+.nav-item { font-size: 1.8em; }
+
+.nav-item:first-child::after { content: '/'; padding-left: 1vw; }
+
+@media only screen and (min-width: 1024px) { .nav-flex { display: flex; } .language { position: absolute; top: 10px; right: 20px; } .nav-item { font-size: 1.3vw; } }
+
+@media only screen and (max-width: 1024px) { .site-title { font-size: 6.7vw; } .desktop-nav { display: none !important; } .mobile-nav { display: block; } .pages-nav { position: absolute; top: 0; right: -90vw; background-color: white; padding: 1em 2em 2em 1em; font-size: 1.5em; line-height: 1.8em; transition: 0.3s; } .pages-nav-open { right: 0; transition: 0.3s; display: block; } }
+
+.hero-insular { width: 47%; }
+
+.insular-title { font-size: 3.5em; margin-bottom: 0; margin-top: 10px; }
+
+.fuso-banner { height: 72%; }
+
+.esfera-1 { width: 20%; float: right; margin-bottom: -14%; z-index: 2; position: relative; }
+
+.esfera-2 { width: 20%; margin-top: -10%; }
+
+a { text-decoration: none; color: inherit; }
+
+a:hover { color: inherit; }
+
+/*# sourceMappingURL=styles.css.map */
