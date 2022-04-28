@@ -18,23 +18,24 @@
 <link rel="shortcut icon" href="/fuso/assets/img/favicon.ico">
     </head>
     <body>
-        
         <div class="p-4 pb-0 mb-0 d-flex align-items-start align-items-center justify-content-between align-items-xl-start flex-xl-column navbar-container ps-xl">
-    <a href="/fuso/"><img src="/fuso/assets/img/logo.svg" alt="Fuso" class="site-title"></a>
-    <div class="pages-nav nav-flex font-attila mt-xl-3">
+    <a href="/fuso/"><img src="/fuso/assets/img/logo.svg" alt="Fuso" class="site-title  w-100 "></a>
+    <div class="pages-nav nav-flex justify-content-between font-attila mt-xl-3 lg-full-width">
+        <div class="nav-flex align-items-center">
         
-            <div ><a href="/fuso/fuso/sobre/" class="me-3 nav-item">sobre</a></div>
-
+            <div><a href="/fuso/fuso/sobre/" class="nav-item ">sobre</a></div>
+            <div class="me-1 desktop-nav">/</div>
         
-            <div ><a href="/fuso/fuso/parceiros/" class="me-3 nav-item">parceiros</a></div>
-
+            <div><a href="/fuso/fuso/parceiros/" class="nav-item ">parceiros</a></div>
+            <div class="me-1 desktop-nav">/</div>
         
-            <div ><a href="/fuso/fuso/open-call/" class="me-3 nav-item">open call</a></div>
-
+            <div><a href="/fuso/fuso/open-call/" class="nav-item ">open call</a></div>
+            <div class="me-1 desktop-nav">/</div>
         
-        <div class="mobile-nav mt-5"></div>
+        </div>
         <br class="mobile-nav">
-        <a href="#" class="font-mesclo mx-3 mx-xl-0 nav-item language">PT</a>
+        <a href="/fuso/fuso-insular/"><div class="switch-button pt-1 px-lg-3">FUSO <span class="font-rossa">INSULAR</span></div></a>
+        <a href="#" class="font-mesclo mx-xl-0 nav-item language">PT</a>
     </div>
     <div class="mobile-nav ms-4">
         <div id="close-icon">
@@ -42,6 +43,81 @@
             <span></span>
             <span></span>
         </div>
+    </div>
+</div>
+        <div class="border border-dark border-2 border-bottom-0 background-white">
+    <img src="/fuso/assets/img/open-call-01.svg" alt="Open Call Candidaturas 20 Maio a 30 Junho 2022">
+    
+</div>
+<div class="border border-dark border-2">
+    <img src="/fuso/assets/img/fuso_dates.png" alt="Fuso 2022 23 a 28 de Agosto" class="w-100">
+</div>
+
+
+<script>
+window.onscroll = function() {
+    growShrinkLogo()
+};
+
+function growShrinkLogo() {
+    var Logo = document.querySelector(".site-title")
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        Logo.classList.remove("w-100");
+    } else {
+        Logo.classList.add("w-100");;
+    }
+}
+</script>
+        <div class="d-lg-flex p-4">
+    <div>
+        <a href="#" target="_blank">Instagram</a><br>
+        <a href="#" target="_blank">Facebook</a><br>
+        <a href="#" target="_blank">Vimeo</a>
+    </div>
+    <div class="d-flex flex-wrap align-items-start logos-footer">
+            
+                <h6 class="capitalize pe-3">Financiamento</h6>
+                
+                <img src="/fuso/assets/img/reptcultura.png" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+                <img src="/fuso/assets/img/2-dgartes.jpg" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+                <img src="/fuso/assets/img/5-edp.jpg" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+                <img src="/fuso/assets/img/4-maat.jpg" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+            
+            
+                <h6 class="capitalize pe-3">Parceria<br>Institucional</h6>
+                
+                <img src="/fuso/assets/img/3-EGEAC.jpg" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+            
+            
+                <h6 class="capitalize pe-3">Parceria</h6>
+                
+                <img src="/fuso/assets/img/arco.jpg" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+            
+            
+                <h6 class="capitalize pe-3">Apoio à<br>Divulgação</h6>
+                
+                <img src="/fuso/assets/img/antena1.png" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+            
+            
+                <h6 class="capitalize pe-3">Acolhimento</h6>
+                
+                <img src="/fuso/assets/img/castelosjorge.png" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+                <img src="/fuso/assets/img/4-maat.jpg" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+                <img src="/fuso/assets/img/6-museu-marioneta.jpg" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+                <img src="/fuso/assets/img/3-mnac.jpg" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
+                <img src="/fuso/assets/img/trienalarqlisboa.png" alt="Logo Finaciamento" class="partners-logo-footer pe-2">
+                
     </div>
 </div>
     </body>

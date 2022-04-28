@@ -1,3 +1,26 @@
 ---
 layout: fuso 
 ---
+<div class="border border-dark border-2 border-bottom-0 background-white">
+    <img src="{{site.baseurl}}/assets/img/open-call-01.svg" alt="Open Call Candidaturas 20 Maio a 30 Junho 2022">
+    
+</div>
+<div class="border border-dark border-2">
+    <img src="{{site.baseurl}}/assets/img/fuso_dates.png" alt="Fuso 2022 23 a 28 de Agosto" class="w-100">
+</div>
+
+
+<script>
+window.onscroll = function() {
+    growShrinkLogo()
+};
+
+function growShrinkLogo() {
+    var Logo = document.querySelector(".site-title")
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        Logo.classList.remove("w-100");
+    } else {
+        Logo.classList.add("w-100");;
+    }
+}
+</script>

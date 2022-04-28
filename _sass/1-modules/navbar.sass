@@ -5,10 +5,13 @@
     z-index: 6
     width: 100%
     transition: 0.2s
+    background-color: white
 
 
 .nav-active
     border-radius: 50%
+    border: 2px solid $red
+    text-align: center
 
 .nav-shadow
     transition: 0.2s
@@ -18,8 +21,8 @@
 /* HAMBURGER NAV */
 
 #close-icon 
-    width: 50px
-    height: 38px
+    width: 40px
+    height: 30px
     position: relative
     margin: 10px
     margin-left: 0
@@ -63,7 +66,7 @@
 
 
 #close-icon span:nth-child(2) 
-    top: 14px
+    top: 12px
     -webkit-transform-origin: left center
     -moz-transform-origin: left center
     -o-transform-origin: left center
@@ -71,7 +74,7 @@
 
 
 #close-icon span:nth-child(3) 
-    top: 28px
+    top: 26px
     -webkit-transform-origin: left center
     -moz-transform-origin: left center
     -o-transform-origin: left center
@@ -97,26 +100,31 @@
     -moz-transform: rotate(-45deg)
     -o-transform: rotate(-45deg)
     transform: rotate(-45deg)
-    top: 33px
+    top: 25px
     left: 8px
 
 .mobile-nav
     display: none
 
 .site-title
-    width: 100%
-
+    width: 24%
+    transition: 0.85s
 
 .nav-item
     font-size: 1.8em
 
-.nav-item:first-child::after
-    content: '/'
-    padding-left: 1vw
+.switch-button
+    background-color: $red
+    border-radius: 50%
+    text-align: center
+    margin-bottom: 2vh
 
 @media only screen and (min-width: 1024px) 
     .nav-flex
         display: flex
+
+    .lg-full-width
+        width: 100%
 
     .language
         position: absolute
@@ -125,6 +133,14 @@
 
     .nav-item
         font-size: 1.3vw
+        padding: 1px 10px 3px 0px
+
+    .nav-active
+        padding: 1px 10px 3px 10px
+
+    .smallLogo
+        width: 24%
+        transition: 0.85s
 
 @media only screen and (max-width: 1024px) 
     .site-title
@@ -141,10 +157,12 @@
         top: 0
         right: -90vw
         background-color: white
+        border-left: 1px solid black
         padding: 1em 2em 2em 1em
         font-size: 1.5em
         line-height: 1.8em
         transition: 0.3s
+        height: 100vh
 
     .pages-nav-open
         right: 0
