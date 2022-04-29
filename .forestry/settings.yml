@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: document
-  path: _data/laboratorio.yml
-  label: Laboratório
 - type: heading
   label: FUSO INSULAR
 - type: document
@@ -20,6 +17,9 @@ sections:
 - type: document
   path: _data/sobre-insular.yml
   label: Sobre
+- type: document
+  path: _data/laboratorio.yml
+  label: Laboratório
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''
