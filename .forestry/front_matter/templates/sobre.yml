@@ -20,3 +20,5 @@ fields:
     schema:
       format: html-blocks
   label: Ficha Técnica
+pages:
+- _data/sobre-insular.yml
