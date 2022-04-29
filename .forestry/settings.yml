@@ -1,29 +1,25 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
   path: _data/laboratorio.yml
   label: Laboratório
-  match: "**/*"
 - type: heading
   label: FUSO INSULAR
 - type: document
   path: _data/open-call.yml
   label: Open Call
-  match: "**/*"
 - type: document
   path: _data/sobre-fuso.yml
   label: Sobre
-  match: "**/*"
 - type: heading
   label: FUSO
 - type: document
   path: _data/sobre-insular.yml
   label: Sobre
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
