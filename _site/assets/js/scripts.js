@@ -12,3 +12,11 @@ $(document).on('click',function(e){
         $('#close-icon').removeClass('open');
     }
 });
+
+$('.fuso-insular-banner').mouseover(function(){
+    $('.index-container').addClass('bg-red');
+});
+
+$('.fuso-insular-banner').mouseout(function(){
+    $('.index-container').removeClass('bg-red');
+});
