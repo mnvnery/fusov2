@@ -55,7 +55,7 @@ body { font-family: "Sequel Sans Roman Body"; }
 
 @media only screen and (min-width: 1024px) { .nav-flex { display: flex; } .lg-full-width { width: 100%; } .language { position: absolute; top: 10px; right: 20px; } .nav-item { font-size: 1.3vw; padding: 1px 10px 3px 0px; } .nav-active { padding: 1px 10px 3px 10px; } .smallLogo { width: 24%; transition: 0.85s; } }
 
-@media only screen and (max-width: 1024px) { .site-title { font-size: 6.7vw; } .desktop-nav { display: none !important; } .mobile-nav { display: block; } .pages-nav { position: absolute; top: 0; right: -90vw; background-color: white; border-left: 1px solid black; padding: 1em 2em 2em 1em; font-size: 1.5em; line-height: 1.8em; transition: 0.3s; height: 100vh; } .pages-nav-open { right: 0; transition: 0.3s; display: block; } }
+@media only screen and (max-width: 1024px) { .site-title { font-size: 6.7vw; width: 100% !important; } .desktop-nav { display: none !important; } .mobile-nav { display: block; } .pages-nav { position: absolute; top: 0; right: -90vw; background-color: white; border-left: 1px solid black; padding: 1em 2em 2em 1em; font-size: 1.5em; line-height: 1.8em; transition: 0.3s; height: 100vh; } .pages-nav-open { right: 0; transition: 0.3s; display: block; } #footer { display: none; } }
 
 .hero-insular { width: 47%; }
 
@@ -71,7 +71,9 @@ a { text-decoration: none; color: inherit; }
 
 a:hover { color: inherit; }
 
-.partners-logo { width: 10%; }
+.fuso-insular-banner:hover { background-color: white; }
+
+.partners-logo { width: 10%; mix-blend-mode: multiply; }
 
 .partners-logo-footer { width: 7%; height: intrinsic; mix-blend-mode: multiply; }
 
@@ -82,5 +84,7 @@ a:hover { color: inherit; }
 @media only screen and (min-width: 1024px) { .w-xl-50 { width: 50%; } .about-left { width: 57%; margin-right: 3rem; } .about-right { padding-right: 18vw; } .esfera-about-right { width: 20%; float: right; z-index: 2; position: absolute; right: 12vw; } .overflow-scroll { overflow: scroll !important; height: 80vh; } }
 
 .switch-btn-insular { background-color: black; color: #e64d3c; }
+
+.border-red { border: 2px solid #e64d3c; }
 
 /*# sourceMappingURL=styles.css.map */
