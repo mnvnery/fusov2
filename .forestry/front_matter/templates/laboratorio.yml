@@ -1,4 +1,18 @@
 ---
 label: Laboratorio
 hide_body: true
-fields: []
+fields:
+- name: regulamento
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Regulamento
+- name: imagem
+  type: file
+  config:
+    maxSize: 64
+  label: Imagem
