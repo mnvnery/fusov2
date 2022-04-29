@@ -17,24 +17,35 @@
 <meta property="og:url" content="/">
 <link rel="shortcut icon" href="/fuso/assets/img/favicon.ico">
     </head>
-    <body>
-        <div class="p-4 pb-0 mb-0 d-flex align-items-start align-items-center justify-content-between align-items-xl-start flex-xl-column navbar-container bg-white ps-xl">
-    <a href="/fuso/"><img src="/fuso/assets/img/logo.svg" alt="Fuso" class="site-title  w-100 "></a>
+    <body class="bg-red">
+        <div class="p-4 pb-0 mb-0 d-flex align-items-start align-items-center justify-content-between align-items-xl-start flex-xl-column navbar-container bg-red ps-xl">
+    <a href="/fuso/" class="insular-nav d-flex ">
+        <img src="/fuso/assets/img/logo.svg" alt="Fuso" class="site-title ">
+        <div class="d-flex justify-content-between insular-section ">
+            <span class="font-rossa insular-title">I</span>
+            <span class="font-rossa insular-title">N</span>
+            <span class="font-rossa insular-title">S</span>
+            <span class="font-rossa insular-title">U</span>
+            <span class="font-rossa insular-title">L</span>
+            <span class="font-rossa insular-title">A</span>
+            <span class="font-rossa insular-title">R</span>
+        </div>
+    </a>
     <div class="pages-nav nav-flex justify-content-between font-attila mt-xl-3 lg-full-width">
         <div class="nav-flex align-items-center">
         
-            <div><a href="/fuso/fuso/sobre/" class="nav-item ">sobre</a></div>
+            <div><a href="/fuso/fuso-insular/sobre/" class="nav-item ">sobre</a></div>
             <div class="me-1 desktop-nav">/</div>
         
-            <div><a href="/fuso/fuso/parceiros/" class="nav-item ">parceiros</a></div>
+            <div><a href="/fuso/fuso-insular/parceiros/" class="nav-item ">parceiros</a></div>
             <div class="me-1 desktop-nav">/</div>
         
-            <div><a href="/fuso/fuso/open-call/" class="nav-item ">open call</a></div>
+            <div><a href="/fuso/fuso-insular/laboratorio/" class="nav-item  nav-active border-2 border-dark ">laboratório</a></div>
             <div class="me-1 desktop-nav">/</div>
         
         </div>
         <br class="mobile-nav">
-        <a href="/fuso/fuso-insular/"><div class="switch-button pt-1 px-lg-3">FUSO <span class="font-rossa">INSULAR</span></div></a>
+        <a href="/fuso/fuso-insular/"><div class="switch-button py-1 px-lg-3 switch-btn-insular">FUSO</div></a>
         <a href="#" class="font-mesclo mx-xl-0 nav-item language">ENG</a>
     </div>
     <div class="mobile-nav ms-4">
@@ -45,29 +56,22 @@
         </div>
     </div>
 </div>
-        <div class="border border-dark border-2 border-bottom-0 background-white">
-    <img src="/fuso/assets/img/open-call-01.svg" alt="Open Call Candidaturas 20 Maio a 30 Junho 2022">
-    
+        <div class="d-xl-flex">
+    <div class="about-left me-xl-5 p-4 overflow-scroll">
+        <h3>FUSO INSULAR – MOSTRA DE VIDEOARTE DOS AÇORES</h3>
+        <p>O FUSO INSULAR acontece na Ilha de São Miguel, Açores pelo quarto ano consecutivo. 
+            Em 2022 irá dividir-se em três momentos: o programa de residência <u>Laboratório Imagem em Movimento</u>, onde se pretende incentivar a criação de novos trabalhos em vídeo; a <u>Mostra de Videoarte dos Açores</u>, com a exibição das obras criadas durante o Laboratório e sessões curatoriais, com obras de artistas nacionais e internacionais; e o Ciclo de Cinema de Autor, com a exibição de obras de um realizador convidado. </p>
+        <p>LABORATÓRIO IMAGEM EM MOVIMENTO 2022</p>
+        <p></p>
+        <p>REGULAMENTO LABORATÓRIO IMAGEM EM MOVIMENTO 2022
+        <br>Candidaturas de 20 de maio a 20 de junho de 2022</p>
+        <p></p>
+    <p class="small-text">*Caso sejam impostas restrições devido ao combate à pandemia COVID-19 que impeçam a realização de uma sessão com público, a votação será feita online.</p>
+    </div>
+    <div>
+        <img src="/fuso/assets/img/inpage-open-call.svg" alt="Open Call 2022" class="open-call-img">
+    </div>
 </div>
-<div class="border border-dark border-2">
-    <img src="/fuso/assets/img/fuso_dates.png" alt="Fuso 2022 23 a 28 de Agosto" class="w-100">
-</div>
-
-
-<script>
-window.onscroll = function() {
-    growShrinkLogo()
-};
-
-function growShrinkLogo() {
-    var Logo = document.querySelector(".site-title")
-    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-        Logo.classList.remove("w-100");
-    } else {
-        Logo.classList.add("w-100");;
-    }
-}
-</script>
         <div class="d-lg-flex p-4">
     <div>
         <a href="#" target="_blank">Instagram</a><br>
