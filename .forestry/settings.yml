@@ -7,11 +7,11 @@ sections:
 - type: heading
   label: FUSO INSULAR
 - type: document
-  path: _data/open-call.yml
-  label: Open Call
-- type: document
   path: _data/sobre-fuso.yml
   label: Sobre
+- type: document
+  path: _data/open-call.yml
+  label: Open Call
 - type: heading
   label: FUSO
 - type: document
