@@ -6,7 +6,7 @@
 
 .font-sequel { font-family: "Sequel Sans Roman Body"; }
 
-body { font-family: "Sequel Sans Roman Body"; overflow-x: hidden; }
+body { font-family: "Sequel Sans Roman Body"; overflow-x: hidden; color: black; }
 
 .bg-white { background-color: white; }
 
@@ -25,6 +25,8 @@ p { line-height: 1.6em; }
 .multiply { mix-blend-mode: multiply; }
 
 .float-right { float: right; }
+
+.border-dark { border-color: black !important; }
 
 .navbar-container { position: sticky; top: 0; left: 0; z-index: 6; width: 100%; transition: 0.2s; }
 
