@@ -18,3 +18,4 @@ fields:
   label: Imagem
 pages:
 - _data/laboratorio.yml
+- _data/open-call.yml
