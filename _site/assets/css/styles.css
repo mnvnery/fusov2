@@ -57,7 +57,7 @@ p { line-height: 1.6em; }
 
 .insular-full-width { width: 100%; margin-left: 0; }
 
-@media only screen and (min-width: 1024px) { .nav-flex { display: flex; } .lg-full-width { width: 100%; } .language { position: absolute; top: 10px; right: 20px; } .nav-item { font-size: 1.3vw; padding: 1px 10px 3px 10px; } .nav-item-first { font-size: 1.3vw; padding: 1px 10px 3px 0px; } .nav-active { padding: 1px 10px 3px 10px; } .smallLogo { width: 24%; transition: 0.85s; } .navbar-container { height: 20vh; } }
+@media only screen and (min-width: 1024px) { .nav-flex { display: flex; } .lg-full-width { width: 100%; } .language { position: absolute; top: 10px; right: 20px; } .nav-item { font-size: 1.3vw; padding: 1px 10px 3px 10px; } .nav-item-first { font-size: 1.3vw; padding: 1px 10px 3px 0px; } .nav-active { padding: 1px 10px 3px 10px; } .smallLogo { width: 24%; transition: 0.85s; } .navbar-container { min-height: 20vh; } }
 
 @media only screen and (max-width: 1024px) { .site-title { font-size: 6.7vw; width: 100% !important; } .desktop-nav { display: none !important; } .mobile-nav { display: block; } .pages-nav { position: absolute; top: 0; right: -90vw; background-color: white; border-left: 1px solid black; padding: 1em 2em 2em 1em; font-size: 1.5em; line-height: 1.8em; transition: 0.3s; height: 100vh; } .pages-nav-open { right: 0; transition: 0.3s; display: block; } #footer { display: none; } }
 
