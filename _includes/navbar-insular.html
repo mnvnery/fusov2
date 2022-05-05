@@ -13,9 +13,13 @@
     </a>
     <div class="pages-nav nav-flex justify-content-between font-attila mt-xl-3 lg-full-width">
         <div class="nav-flex align-items-center">
-        {% for nav in site.data.navigation-fuso-insular %}
+        {% for nav in site.data.navigation-fuso-insular limit:1 %}
+            <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item-first {% if nav.url == page.url %} nav-active border-2 border-dark {% endif %}">{{ nav.text }}</a></div>
+            <div class="mx-1 desktop-nav">/</div>
+        {% endfor %}
+        {% for nav in site.data.navigation-fuso-insular offset:1 %}
             <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item {% if nav.url == page.url %} nav-active border-2 border-dark {% endif %}">{{ nav.text }}</a></div>
-            <div class="me-1 desktop-nav">/</div>
+            <div class="mx-1 desktop-nav">/</div>
         {% endfor %}
         </div>
         <br class="mobile-nav">

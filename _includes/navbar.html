@@ -2,9 +2,13 @@
     <a href="{{site.baseurl}}/"><img src="{{ site.baseurl }}/assets/img/logo.svg" alt="Fuso" class="site-title {% if page.url == '/fuso/' %} w-100 {% endif %}"></a>
     <div class="pages-nav nav-flex justify-content-between font-attila mt-xl-3 lg-full-width">
         <div class="nav-flex align-items-center">
-        {% for nav in site.data.navigation-fuso %}
+        {% for nav in site.data.navigation-fuso limit:1 %}
+            <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item-first {% if nav.url == page.url %} nav-active {% endif %}">{{ nav.text }}</a></div>
+            <div class="mx-1 desktop-nav">/</div>
+        {% endfor %}
+        {% for nav in site.data.navigation-fuso offset:1 %}
             <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item {% if nav.url == page.url %} nav-active {% endif %}">{{ nav.text }}</a></div>
-            <div class="me-1 desktop-nav">/</div>
+            <div class="mx-1 desktop-nav">/</div>
         {% endfor %}
         </div>
         <br class="mobile-nav">
