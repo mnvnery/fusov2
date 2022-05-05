@@ -22,6 +22,8 @@ body { font-family: "Sequel Sans Roman Body"; }
 
 p { line-height: 1.6em; }
 
+.multiply { mix-blend-mode: multiply; }
+
 .navbar-container { position: sticky; top: 0; left: 0; z-index: 6; width: 100%; transition: 0.2s; }
 
 .nav-active { border-radius: 50%; border: 2px solid #e64d3c; text-align: center; }
@@ -51,7 +53,13 @@ p { line-height: 1.6em; }
 
 .nav-item { font-size: 1.8em; }
 
-.switch-button { background-color: #e64d3c; border-radius: 50%; text-align: center; margin-bottom: 2vh; }
+.switch-button { background-color: #e64d3c; border: 2px solid #e64d3c; border-radius: 50%; text-align: center; margin-bottom: 2vh; }
+
+.switch-button:hover { background-color: transparent !important; border: 2px solid #e64d3c; color: #e64d3c; }
+
+.switch-btn-insular { border: 2px solid black; }
+
+.switch-btn-insular:hover { background-color: transparent !important; border: 2px solid black; color: black; }
 
 .insular-section { width: 50%; margin-left: 2em; }
 
@@ -61,15 +69,21 @@ p { line-height: 1.6em; }
 
 @media only screen and (max-width: 1024px) { .site-title { font-size: 6.7vw; width: 100% !important; } .desktop-nav { display: none !important; } .mobile-nav { display: block; } .pages-nav { position: absolute; top: 0; right: -90vw; background-color: white; border-left: 1px solid black; padding: 1em 2em 2em 1em; font-size: 1.5em; line-height: 1.8em; transition: 0.3s; height: 100vh; } .pages-nav-open { right: 0; transition: 0.3s; display: block; } #footer { display: none; } }
 
+.partners-logo-footer { height: 50px; mix-blend-mode: multiply; }
+
+.logos-footer { margin-left: 20vw; }
+
+.smaller-text { font-size: 0.9em; }
+
 .hero-insular { width: 47%; }
 
 .insular-title { font-size: 3.5em; margin-bottom: 0; margin-top: 10px; }
 
 .fuso-banner { height: 72%; }
 
-.esfera-1 { width: 20%; float: right; margin-bottom: -14%; z-index: 2; position: relative; }
+.esfera-1 { width: 20%; float: right; margin-bottom: -14%; z-index: 2; position: relative; mix-blend-mode: multiply; }
 
-.esfera-2 { width: 20%; margin-top: -10%; }
+.esfera-2 { width: 20%; margin-top: -10%; mix-blend-mode: multiply; }
 
 a { text-decoration: none; color: inherit; }
 
@@ -79,13 +93,13 @@ a:hover { color: inherit; }
 
 .partners-logo { width: 10%; mix-blend-mode: multiply; }
 
-.partners-logo-footer { width: 7%; height: intrinsic; mix-blend-mode: multiply; }
-
-.logos-footer { margin-left: 20vw; }
-
 .open-call-img { height: 80vh; }
 
-.opencall-left { position: -webkit-sticky; position: sticky; top: 20vh; }
+.opencall-left { position: -webkit-sticky; position: sticky; top: 23vh; }
+
+.sticky-btn { position: -webkit-sticky; position: sticky; top: 26vh; }
+
+.sticky-btn-opencall { position: -webkit-sticky; position: sticky; top: 23vh; }
 
 @media only screen and (min-width: 1024px) { .w-xl-50 { width: 50%; } .about-left { width: 57%; margin-right: 3rem; } .about-right { padding-right: 18vw; } .esfera-about-right { width: 20%; float: right; z-index: 2; position: absolute; right: 12vw; } .overflow-scroll { overflow: scroll !important; height: 80vh; } }
 
