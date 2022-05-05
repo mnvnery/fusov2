@@ -21,4 +21,5 @@ fields:
       format: html-blocks
   label: Ficha Técnica
 pages:
+- _data/sobre-fuso.yml
 - _data/sobre-insular.yml
