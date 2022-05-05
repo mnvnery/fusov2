@@ -1,9 +1,6 @@
 .partners-logo
-    width: 10%
+    width: 30%
     mix-blend-mode: multiply
-
-.open-call-img
-    height: 80vh
 
 .opencall-left
     position: -webkit-sticky
@@ -20,7 +17,29 @@
     position: sticky
     top: 23vh
 
+.esfera-about-right
+    width: 40% 
+    margin-bottom: 1.5em
+
+.about-left a
+    text-decoration: underline
+
+
+@media only screen and (max-width: 1024px) 
+    .open-call-img
+        width: 100%
+
+    .sticky-btn-opencall, .sticky-btn
+        width: -webkit-fit-content
+        padding: 0 15px
+
+    .lab-img
+        border: 2px solid black
+
 @media only screen and (min-width: 1024px) 
+    .open-call-img
+        height: 80vh
+
     .w-xl-50
         width: 50%
 
@@ -42,3 +61,6 @@
     .overflow-scroll
         overflow: scroll !important
         height: 80vh
+
+    .partners-logo
+        width: 10%
