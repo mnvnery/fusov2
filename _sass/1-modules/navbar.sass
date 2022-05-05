@@ -6,11 +6,10 @@
     width: 100%
     transition: 0.2s
 
-
 .nav-active
-    border-radius: 50%
-    border: 2px solid $red
     text-align: center
+    text-decoration: underline
+    text-decoration-color: $red
 
 .nav-shadow
     transition: 0.2s
@@ -112,6 +111,9 @@
 .nav-item
     font-size: 1.8em
 
+.nav-item-first
+    font-size: 1.8em
+
 .switch-button
     background-color: $red
     border: 2px solid $red
@@ -162,7 +164,10 @@
         padding: 1px 10px 3px 0px
 
     .nav-active
+        border-radius: 50%
+        border: 2px solid $red
         padding: 1px 10px 3px 10px
+        text-decoration: none
 
     .smallLogo
         width: 24%
@@ -187,7 +192,7 @@
         top: 0
         right: -90vw
         background-color: white
-        border-left: 1px solid black
+        border-left: 2px solid black
         padding: 1em 2em 2em 1em
         font-size: 1.5em
         line-height: 1.8em
@@ -199,5 +204,14 @@
         transition: 0.3s
         display: block
 
-    #footer
-        display: none
+    .fuso-insular-nav-mobile
+        flex-direction: column
+
+    .insular-section
+        width: 100%
+        margin-left: 0
+
+    .navbar-btn-mobile
+        background-color: $red !important
+        color: black !important
+        border: 2px solid $red

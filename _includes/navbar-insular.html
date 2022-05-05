@@ -1,5 +1,5 @@
-<div class="p-4 pb-0 mb-0 d-flex align-items-start align-items-center justify-content-between align-items-xl-start flex-xl-column navbar-container bg-red ps-xl">
-    <a href="{{site.baseurl}}/" class="insular-nav d-flex w-100 {% if page.url == '/fuso-insular/' %} flex-column {% endif %}">
+<div class="p-4 pb-0 mb-0 d-flex align-items-start justify-content-between align-items-start flex-xl-column navbar-container bg-red ps-xl">
+    <a href="{{site.baseurl}}/" class="insular-nav d-flex w-100 fuso-insular-nav-mobile {% if page.url == '/fuso-insular/' %} flex-column {% endif %}">
         <img src="{{ site.baseurl }}/assets/img/logo.svg" alt="Fuso" class="site-title {% if page.url == '/fuso-insular/' %} w-100 {% endif %}">
         <div class="d-flex justify-content-between insular-section {% if page.url == '/fuso-insular/' %} insular-full-width {% endif %}">
             <span class="font-rossa insular-title">I</span>
@@ -23,7 +23,7 @@
         {% endfor %}
         </div>
         <br class="mobile-nav">
-        <a href="{{ site.baseurl }}/fuso/"><div class="switch-button py-1 px-lg-3 switch-btn-insular">FUSO</div></a>
+        <a href="{{ site.baseurl }}/fuso/"><div class="switch-button py-1 px-lg-3 switch-btn-insular navbar-btn-mobile">FUSO</div></a>
         <br class="mobile-nav">
         <a href="#" class="font-mesclo mx-xl-0 nav-item language">eng</a>
     </div>
