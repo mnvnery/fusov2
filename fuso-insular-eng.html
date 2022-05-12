@@ -1,0 +1,31 @@
+---
+layout: fuso-insular-eng
+---
+<div class="border border-dark border-2 border-bottom-0 background-white">
+    <img src="{{site.baseurl}}/assets/img/insular_home_lab-02.jpg" alt="Laboratorio Candidaturas 20 Maio a 20 Junho 2022" class="w-100 border-red">
+    
+</div>
+<div class="border border-dark border-2">
+    <img src="{{site.baseurl}}/assets/img/insular_dates-01.jpg" alt="Fuso Insular 2022 28 a 30 de Outubro" class="w-100">
+</div>
+
+<script>
+    window.onscroll = function() {
+        growShrinkLogo()
+    };
+    
+    function growShrinkLogo() {
+        var Logo = document.querySelector(".site-title")
+        var logoContainer = document.querySelector(".insular-nav")
+        var insularSection = document.querySelector(".insular-section")
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            Logo.classList.remove("w-100");
+            logoContainer.classList.remove("flex-column");
+            insularSection.classList.remove("insular-full-width");
+        } else {
+            Logo.classList.add("w-100");;
+            logoContainer.classList.add("flex-column");
+            insularSection.classList.add("insular-full-width");
+        }
+    }
+</script>

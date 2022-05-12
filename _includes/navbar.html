@@ -8,13 +8,15 @@
         {% endfor %}
         {% for nav in site.data.navigation-fuso offset:1 %}
             <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item {% if nav.url == page.url %} nav-active {% endif %}">{{ nav.text }}</a></div>
-            <div class="mx-1 desktop-nav">/</div>
         {% endfor %}
         </div>
         <br class="mobile-nav">
         <a href="{{ site.baseurl }}/fuso-insular/"><div class="switch-button pt-1 px-lg-3">FUSO <span class="font-rossa">INSULAR</span></div></a>
         <br class="mobile-nav">
-        <a href="#" class="font-mesclo mx-xl-0 nav-item language">eng</a>
+        {% assign match = site.data.nav-matches | where: "pt-version", page.url %}
+        {% for nav in match %}
+        <a href="{{site.baseurl}}{{ nav.eng-version }}" class="font-mesclo mx-xl-0 nav-item language">eng</a>
+        {% endfor %}
     </div>
     <div class="mobile-nav ms-4">
         <div id="close-icon">
