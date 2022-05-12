@@ -11,15 +11,15 @@ fields:
     schema:
       format: html-blocks
   label: Informação
-- name: ficha_tecnica
+- name: informacao_eng
   type: textarea
   default: ''
   config:
     required: false
-    wysiwyg: true
+    wysiwyg: false
     schema:
-      format: html-blocks
-  label: Ficha Técnica
+      format: markdown
+  label: Informação ENG
 pages:
 - _data/sobre-fuso.yml
 - _data/sobre-insular.yml
