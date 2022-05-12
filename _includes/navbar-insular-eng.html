@@ -13,20 +13,20 @@
     </a>
     <div class="pages-nav nav-flex justify-content-between font-attila mt-xl-3 lg-full-width">
         <div class="nav-flex align-items-center">
-        {% for nav in site.data.navigation-fuso-insular limit:1 %}
+        {% for nav in site.data.nav-insular-eng limit:1 %}
             <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item-first {% if nav.url == page.url %} nav-active border-2 border-dark {% endif %}">{{ nav.text }}</a></div>
             <div class="mx-1 desktop-nav">/</div>
         {% endfor %}
-        {% for nav in site.data.navigation-fuso-insular offset:1 %}
+        {% for nav in site.data.nav-insular-eng offset:1 %}
             <div><a href="{{ site.baseurl}}{{ nav.url }}" class="nav-item {% if nav.url == page.url %} nav-active border-2 border-dark {% endif %}">{{ nav.text }}</a></div>
         {% endfor %}
         </div>
         <br class="mobile-nav">
         <a href="{{ site.baseurl }}/fuso/"><div class="switch-button py-1 px-lg-3 switch-btn-insular navbar-btn-mobile">FUSO</div></a>
         <br class="mobile-nav">
-        {% assign match = site.data.nav-matches | where: "pt-version", page.url %}
+        {% assign match = site.data.nav-matches | where: "eng-version", page.url %}
         {% for nav in match %}
-        <a href="{{site.baseurl}}{{ nav.eng-version }}" class="font-mesclo mx-xl-0 nav-item language">eng</a>
+        <a href="{{site.baseurl}}{{ nav.pt-version }}" class="font-mesclo mx-xl-0 nav-item language">pt</a>
         {% endfor %}
     </div>
     <div class="mobile-nav ms-4">
