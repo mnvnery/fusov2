@@ -11,11 +11,15 @@ fields:
     schema:
       format: html-blocks
   label: Regulamento
-- name: imagem
-  type: file
+- name: regulamento_eng
+  type: textarea
+  default: ''
   config:
-    maxSize: 64
-  label: Imagem
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Regulamento ENG
 pages:
 - _data/laboratorio.yml
 - _data/open-call.yml
