@@ -5,7 +5,7 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: heading
-  label: FUSO
+  label: FUSO INSULAR
 - type: document
   path: _data/sobre-insular.yml
   label: Sobre
@@ -13,7 +13,7 @@ sections:
   path: _data/laboratorio.yml
   label: Laboratório
 - type: heading
-  label: FUSO INSULAR
+  label: FUSO
 - type: document
   path: _data/sobre-fuso.yml
   label: Sobre
