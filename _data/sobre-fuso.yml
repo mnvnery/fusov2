@@ -50,8 +50,8 @@ ficha_tecnica: ''
 informacao_eng: <h3>Created in 2009, FUSO is the only open-air video art festival
   in Lisbon, in unique spaces such as gardens and museum cloisters. With free admission,
   the festival welcomes artists, curators, the general public and Portuguese institutions
-  involved in this artistic practice.</h3><p><img src="/fuso/assets/img/esfera_preta_3.gif"
-  alt="Esfera"></p><p>A program of excellence proposes new perspectives on video art,
+  involved in this artistic practice.</h3><p><div class="d-flex justify-content-center w-100"><img src="/fuso/assets/img/esfera_preta_3.gif"
+  alt="Esfera" class="text-center w-40 multiply"></div></p><p>A program of excellence proposes new perspectives on video art,
   revealing authors and contemporary works, but also presenting historical pieces
   rarely or never seen in Portugal.</p><p>By exposing the relationship between experimental
   film languages, performance, photography and cinema, FUSO brings a new awareness
