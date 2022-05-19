@@ -1,11 +1,7 @@
 title: Fuso 2022
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/fuso"  # the subpath of your site, e.g. /blog
-url: "https://mnvnery.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Created in 2009, FUSO is the only open-air video art festival in Lisbon, in unique spaces such as gardens and museum cloisters. With free admission, the festival welcomes artists, curators, the general public and Portuguese institutions involved in this artistic practice.
+url: "https://fuso-fest.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
