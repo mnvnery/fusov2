@@ -3,7 +3,7 @@ label: Programa
 hide_body: true
 display_field: titulo
 fields:
-- name: titulo
+- name: title
   type: text
   config:
     required: false
