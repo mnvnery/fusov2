@@ -16,6 +16,8 @@ sass:
 collections:
   fuso_programs: 
     output: true
+  fuso_events:
+    output: true
 
 # exclude:
 #   - .sass-cache/
