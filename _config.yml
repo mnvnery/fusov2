@@ -13,6 +13,10 @@ sass:
   sass_dir: _sass
 
 
+collections:
+  fuso_programs: 
+    output: true
+
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
