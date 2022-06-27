@@ -59,7 +59,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: titulo
   label: Eventos
 pages:
 - _fuso_programs/Wind.html
