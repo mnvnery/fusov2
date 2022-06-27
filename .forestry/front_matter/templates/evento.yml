@@ -13,6 +13,18 @@ fields:
   config:
     required: false
   label: Artista
+- name: programa
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: programa
+      file: 
+      path: 
+  label: Programa
 - name: ano
   type: text
   config:
