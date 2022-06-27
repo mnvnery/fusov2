@@ -1,4 +1,63 @@
 ---
 label: Evento
 hide_body: true
-fields: []
+fields:
+- name: titulo
+  type: text
+  config:
+    required: false
+  label: Titulo
+- name: artista
+  type: text
+  config:
+    required: false
+  label: Artista
+- name: ano
+  type: text
+  config:
+    required: false
+  label: Ano
+- name: duracao
+  type: text
+  config:
+    required: false
+  label: Duração
+- name: dia
+  type: text
+  config:
+    required: false
+  label: Dia
+- name: hora
+  type: text
+  config:
+    required: false
+  label: Hora
+- name: local
+  type: text
+  config:
+    required: false
+  label: Local
+- name: curadoria
+  type: text
+  config:
+    required: false
+  label: Curadoria
+- name: sessao
+  type: text
+  config:
+    required: false
+  label: Sessão
+- name: sinopse
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Sinopse
+- name: imagem
+  type: file
+  config:
+    maxSize: 64
+  label: Imagem
