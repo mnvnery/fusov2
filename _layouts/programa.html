@@ -1,0 +1,37 @@
+---
+layout: fuso
+---
+<div class="d-flex mx-4 mb-3">
+    <div class="h-100 me-3">
+        <img src="{{site.baseurl}}/{{page.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate mb-3 max-height-60">
+        <div class="d-flex">
+            <h5 class="me-5">
+                Curadoria <br>
+                {{ page.curadoria }}
+            </h5>
+            <h5 class="me-5">
+                {{ page.data }}<br>
+                às {{ page.horas }}
+            </h5>
+            <h5 class="me-5">
+                Local <br>
+                {{ page.local }}
+            </h5>
+            
+        </div>
+    </div>
+    <div class="ms-3">
+        <h5 class="text-uppercase">{{page.titulo}}</h5>
+        <br>
+        {{page.texto_curatorial}}
+    </div>
+    <div class="border border-top border-black"></div>
+    <div class="text-center">ON THIS SESSION</div>
+    <div class="d-flex">
+        {% for evento in page.eventos %}
+        <div class="border border-red w-50 mx-2">
+            <a href="{{evento.url}}"><img src="{{site.baseurl}}/{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
+        </div>
+        {% endfor %}
+    </div>
+</div>

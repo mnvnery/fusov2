@@ -1,15 +1,13 @@
 ---
 layout: fuso
 ---
-<div class="border border-dark border-2 border-bottom-0 background-white">
-    <img src="{{site.baseurl}}/assets/img/open-call-01.svg" alt="Open Call Candidaturas 20 Maio a 30 Junho 2022"  class="w-100 desktop">
-    <img src="{{site.baseurl}}/assets/img/mobile-fuso-opencall-pt.jpg" alt="Open Call Candidaturas 20 Maio a 30 Junho 2022" class="w-100 mobile">
+<div class="d-flex mx-3 mb-3">
+{% for programa in site.fuso_programs %}
+<div class="border border-red w-50 mx-2">
+    <a href="{{programa.url}}"><img src="{{site.baseurl}}/{{programa.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
 </div>
-<div class="border border-dark border-2">
-    <img src="{{site.baseurl}}/assets/img/hero-fuso-pt.jpg" alt="Fuso 2022 23 a 28 de Agosto" class="w-100 desktop">
-    <img src="{{site.baseurl}}/assets/img/mobile-fuso-pt.jpg" alt="Fuso 2022 23 a 28 de Agosto" class="w-100 mobile">
+{% endfor %}
 </div>
-
 
 <script>
 window.onscroll = function() {
