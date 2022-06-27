@@ -2,17 +2,17 @@
 label: Programa
 hide_body: true
 fields:
+- name: titulo
+  type: text
+  config:
+    required: false
+  label: Titulo
 - name: data
   type: text
   config:
     required: false
   label: Data
   description: 'Formato: 26 Agosto'
-- name: titulo
-  type: text
-  config:
-    required: false
-  label: Titulo
 - name: curadoria
   type: text
   config:
