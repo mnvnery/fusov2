@@ -29,6 +29,11 @@ fields:
   config:
     required: false
   label: Local
+- name: duracao
+  type: text
+  config:
+    required: false
+  label: Duração
 - name: texto_curatorial
   type: textarea
   default: ''
