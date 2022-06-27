@@ -1,6 +1,7 @@
 ---
 label: Evento
 hide_body: true
+display_field: titulo
 fields:
 - name: titulo
   type: text
@@ -52,9 +53,9 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: Sinopse
 - name: imagem
   type: file
