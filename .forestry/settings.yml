@@ -20,6 +20,8 @@ sections:
   create: documents
   match: "**/*"
   new_doc_ext: html
+  templates:
+  - programa
 - type: document
   path: _data/sobre-fuso.yml
   label: Sobre
