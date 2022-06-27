@@ -62,3 +62,5 @@ fields:
   config:
     maxSize: 64
   label: Imagem
+pages:
+- _fuso_eventos/Waltz.html
