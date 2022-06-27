@@ -37,3 +37,10 @@ fields:
     schema:
       format: markdown
   label: Texto Curatorial
+- name: eventos
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Eventos
