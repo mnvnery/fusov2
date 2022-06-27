@@ -19,7 +19,7 @@ sections:
   label: Eventos
   create: documents
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
   templates:
   - evento
 - type: directory

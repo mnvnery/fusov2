@@ -48,26 +48,3 @@ fields:
   config:
     maxSize: 64
   label: Imagem
-- name: eventos
-  type: field_group_list
-  fields:
-  - name: evento
-    type: include
-    config: {}
-    template: evento
-    label: Evento
-  config:
-    min: 
-    max: 
-    labelField: titulo
-  label: Eventos
-- name: events
-  type: list
-  config:
-    use_select: true
-    min: 
-    max: 
-    source:
-      type: pages
-      section: eventos
-  label: Eventos
