@@ -61,3 +61,5 @@ fields:
     max: 
     labelField: 
   label: Eventos
+pages:
+- _fuso_programs/Wind.html
