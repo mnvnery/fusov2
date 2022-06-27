@@ -14,6 +14,12 @@ sections:
   label: Laboratório
 - type: heading
   label: FUSO
+- type: directory
+  path: _fuso_programs
+  label: Programa
+  create: documents
+  match: "**/*"
+  new_doc_ext: html
 - type: document
   path: _data/sobre-fuso.yml
   label: Sobre
