@@ -15,6 +15,14 @@ sections:
 - type: heading
   label: FUSO
 - type: directory
+  path: _fuso_eventos
+  label: Eventos
+  create: documents
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - evento
+- type: directory
   path: _fuso_programs
   label: Programa
   create: documents
