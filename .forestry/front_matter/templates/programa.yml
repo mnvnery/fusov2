@@ -1,4 +1,39 @@
 ---
 label: Programa
 hide_body: true
-fields: []
+fields:
+- name: data
+  type: text
+  config:
+    required: false
+  label: Data
+  description: 'Formato: 26 Agosto'
+- name: titulo
+  type: text
+  config:
+    required: false
+  label: Titulo
+- name: curadoria
+  type: text
+  config:
+    required: false
+  label: Curadoria
+- name: horas
+  type: text
+  config:
+    required: false
+  label: Horas
+- name: local
+  type: text
+  config:
+    required: false
+  label: Local
+- name: texto_curatorial
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Texto Curatorial
