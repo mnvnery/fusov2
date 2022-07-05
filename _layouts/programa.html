@@ -21,17 +21,18 @@ layout: fuso
         </div>
     </div>
     <div class="ms-3">
-        <h5 class="text-uppercase">{{page.titulo}}</h5>
+        <h5 class="text-uppercase">{{page.title }}</h5>
         <br>
         {{page.texto_curatorial}}
     </div>
-    <div class="border border-top border-black"></div>
-    <div class="text-center">ON THIS SESSION</div>
-    <div class="d-flex">
-        {% for evento in page.eventos %}
-        <div class="border border-red w-50 mx-2">
-            <a href="{{evento.url}}"><img src="{{site.baseurl}}/{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
-        </div>
-        {% endfor %}
+</div>
+<div class="border border-top border-black"></div>
+<h5 class="text-center mt-3 mb-4">ON THIS SESSION</h5>
+<div class="d-flex mx-2 mb-3">
+    {% assign this_session = page.title %}
+    {% for evento in site.fuso_eventos | where:'sessao', 'this_session' %}
+    <div class="border border-red w-50 mx-2">
+        <a href="{{evento.url}}"><img src="{{site.baseurl}}/{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
     </div>
+    {% endfor %}
 </div>
