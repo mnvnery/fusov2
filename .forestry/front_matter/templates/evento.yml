@@ -8,11 +8,21 @@ fields:
   config:
     required: false
   label: Titulo
+- name: title_eng
+  type: text
+  config:
+    required: false
+  label: Titulo ENG
 - name: artista
   type: text
   config:
     required: false
   label: Artista
+- name: artista_eng
+  type: text
+  config:
+    required: false
+  label: Artist ENG
 - name: programa
   type: select
   default: []
@@ -40,6 +50,11 @@ fields:
   config:
     required: false
   label: Dia
+- name: dia_eng
+  type: text
+  config:
+    required: false
+  label: Dia ENG
 - name: hora
   type: text
   config:
@@ -69,6 +84,15 @@ fields:
     schema:
       format: html-blocks
   label: Sinopse
+- name: sinopse_eng
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Synopsis
 - name: imagem
   type: file
   config:

@@ -8,12 +8,23 @@ fields:
   config:
     required: false
   label: Titulo
+- name: title_eng
+  type: text
+  config:
+    required: false
+  label: Title ENG
 - name: data
   type: text
   config:
     required: false
   label: Data
   description: 'Formato: 26 Agosto'
+- name: data_eng
+  type: text
+  config:
+    required: false
+  label: Date ENG
+  description: 'Format: 26 August'
 - name: curadoria
   type: text
   config:
@@ -24,6 +35,11 @@ fields:
   config:
     required: false
   label: Horas
+- name: horas_eng
+  type: text
+  config:
+    required: false
+  label: Time ENG
 - name: local
   type: text
   config:
@@ -43,6 +59,15 @@ fields:
     schema:
       format: html-blocks
   label: Texto Curatorial
+- name: texto_curatorial_eng
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Curatorial Text ENG
 - name: imagem
   type: file
   config:

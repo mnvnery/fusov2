@@ -16,7 +16,7 @@ sass:
 collections:
   fuso_programs: 
     output: true
-  fuso_events:
+  fuso_eventos:
     output: true
 
 # exclude:
