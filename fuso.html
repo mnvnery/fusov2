@@ -3,8 +3,12 @@ layout: fuso
 ---
 <div class="d-flex mx-3 mb-3">
 {% for programa in site.fuso_programs %}
-<div class="border border-red w-50 mx-2">
+<div class="border border-red w-50 mx-2 position-relative">
     <a href="{{programa.url}}"><img src="{{site.baseurl}}/{{programa.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
+    <div class="position-absolute d-flex top-0 left-0 text-red">
+        <h1 class="font-rossa prog-title">{{ programa.data }}</h1>
+        <div>{{ programa.titulo }}</div>
+    </div>
 </div>
 {% endfor %}
 </div>
@@ -24,4 +28,17 @@ function growShrinkLogo() {
         Logo.classList.add("w-100");
     }
 }
+
+var title = document.querySelector('.prog-title').innerHTML
+
+function addNewlines(str) {
+    var result = '';
+    while (str.length > 0) {
+        result += str.substring(0, 2) + '\n';
+        str = str.substring(2);
+    }
+    return result;
+}
+
+console.log(addNewlines(title));
 </script>
