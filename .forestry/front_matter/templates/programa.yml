@@ -14,17 +14,23 @@ fields:
     required: false
   label: Title ENG
 - name: data
-  type: text
+  type: select
+  default: []
   config:
     required: false
+    options:
+    - '23'
+    - '24'
+    - '25'
+    - '26'
+    - '27'
+    - '28'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: Data
-  description: 'Formato: 26 Agosto'
-- name: data_eng
-  type: text
-  config:
-    required: false
-  label: Date ENG
-  description: 'Format: 26 August'
 - name: curadoria
   type: text
   config:
@@ -73,21 +79,3 @@ fields:
   config:
     maxSize: 64
   label: Imagem
-- name: date
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - '23'
-    - '24'
-    - '25'
-    - '26'
-    - '27'
-    - '28'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Date
