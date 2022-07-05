@@ -45,6 +45,16 @@ fields:
   config:
     required: false
   label: Duração
+- name: specs
+  type: text
+  config:
+    required: false
+  label: Specs
+- name: specs_eng
+  type: text
+  config:
+    required: false
+  label: Specs ENG
 - name: dia
   type: text
   config:
