@@ -28,6 +28,11 @@ fields:
       schema:
         format: html-blocks
     label: Bio ENG
+  - name: retrato
+    type: file
+    config:
+      maxSize: 64
+    label: Retrato
   config:
     min: 
     max: 
