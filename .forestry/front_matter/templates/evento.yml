@@ -55,31 +55,11 @@ fields:
   config:
     required: false
   label: Specs ENG
-- name: dia
-  type: text
-  config:
-    required: false
-  label: Dia
-- name: dia_eng
-  type: text
-  config:
-    required: false
-  label: Dia ENG
 - name: hora
   type: text
   config:
     required: false
   label: Hora
-- name: local
-  type: text
-  config:
-    required: false
-  label: Local
-- name: curadoria
-  type: text
-  config:
-    required: false
-  label: Curadoria
 - name: sessao
   type: text
   config:
