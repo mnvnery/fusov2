@@ -13,6 +13,11 @@ fields:
   config:
     required: false
   label: Title ENG
+- name: curadoria
+  type: text
+  config:
+    required: false
+  label: Curadoria
 - name: data
   type: select
   default: []
@@ -31,21 +36,20 @@ fields:
       file: 
       path: 
   label: Data
-- name: curadoria
-  type: text
+- name: local
+  type: textarea
+  default: ''
   config:
     required: false
-  label: Curadoria
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Local
 - name: horas
   type: text
   config:
     required: false
   label: Horas
-- name: local
-  type: text
-  config:
-    required: false
-  label: Local
 - name: duracao
   type: text
   config:
