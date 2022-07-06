@@ -15,11 +15,9 @@ sections:
 - type: document
   path: _data/fuso_curators.yml
   label: Curadores
-  match: "**/*"
 - type: document
   path: _data/fuso_artists.yml
   label: Artistas
-  match: "**/*"
 - type: directory
   path: _fuso_programs
   label: Programas
