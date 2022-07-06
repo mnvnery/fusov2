@@ -13,6 +13,11 @@ fields:
   config:
     required: false
   label: Title ENG
+- name: curadoria
+  type: text
+  config:
+    required: false
+  label: Curadoria
 - name: data
   type: select
   default: []
@@ -31,26 +36,21 @@ fields:
       file: 
       path: 
   label: Data
-- name: curadoria
-  type: text
+- name: local
+  type: textarea
+  default: ''
   config:
     required: false
-  label: Curadoria
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Local
+  description: Usar o símbolo de Link para adicionar as direções google Maps
 - name: horas
   type: text
   config:
     required: false
   label: Horas
-- name: horas_eng
-  type: text
-  config:
-    required: false
-  label: Time ENG
-- name: local
-  type: text
-  config:
-    required: false
-  label: Local
 - name: duracao
   type: text
   config:
