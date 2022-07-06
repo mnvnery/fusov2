@@ -5,15 +5,29 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: heading
-  label: FUSO INSULAR
+  label: FUSO
 - type: document
-  path: _data/sobre-insular.yml
+  path: _data/sobre-fuso.yml
   label: Sobre
 - type: document
-  path: _data/laboratorio.yml
-  label: Laboratório
-- type: heading
-  label: FUSO
+  path: _data/open-call.yml
+  label: Open Call
+- type: document
+  path: _data/fuso_curators.yml
+  label: Curadores
+  match: "**/*"
+- type: document
+  path: _data/fuso_artists.yml
+  label: Artistas
+  match: "**/*"
+- type: directory
+  path: _fuso_programs
+  label: Programas
+  create: documents
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - programa
 - type: directory
   path: _fuso_eventos
   label: Eventos
@@ -22,20 +36,14 @@ sections:
   new_doc_ext: html
   templates:
   - evento
-- type: directory
-  path: _fuso_programs
-  label: Programa
-  create: documents
-  match: "**/*"
-  new_doc_ext: html
-  templates:
-  - programa
+- type: heading
+  label: FUSO INSULAR
 - type: document
-  path: _data/sobre-fuso.yml
+  path: _data/sobre-insular.yml
   label: Sobre
 - type: document
-  path: _data/open-call.yml
-  label: Open Call
+  path: _data/laboratorio.yml
+  label: Laboratório
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''
