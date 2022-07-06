@@ -1,4 +1,35 @@
 ---
 label: Curadores
 hide_body: true
-fields: []
+fields:
+- name: curadores
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Nome
+  - name: bio_pt
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Bio PT
+  - name: bio_eng
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Bio ENG
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: Curadores
