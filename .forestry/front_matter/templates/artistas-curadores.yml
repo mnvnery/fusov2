@@ -28,6 +28,11 @@ fields:
       schema:
         format: html-blocks
     label: Bio ENG
+  - name: imagem
+    type: file
+    config:
+      maxSize: 64
+    label: Imagem
   config:
     min: 
     max: 
