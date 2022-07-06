@@ -41,11 +41,6 @@ fields:
   config:
     required: false
   label: Horas
-- name: horas_eng
-  type: text
-  config:
-    required: false
-  label: Time ENG
 - name: local
   type: text
   config:
