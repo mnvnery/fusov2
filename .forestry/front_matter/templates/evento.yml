@@ -8,21 +8,11 @@ fields:
   config:
     required: false
   label: Titulo
-- name: title_eng
-  type: text
-  config:
-    required: false
-  label: Titulo ENG
 - name: artista
   type: text
   config:
     required: false
   label: Artista
-- name: artista_eng
-  type: text
-  config:
-    required: false
-  label: Artist ENG
 - name: programa
   type: select
   default: []
