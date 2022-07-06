@@ -50,11 +50,6 @@ fields:
   config:
     required: false
   label: Hora
-- name: sessao
-  type: text
-  config:
-    required: false
-  label: Sessão
 - name: sinopse
   type: textarea
   default: ''
