@@ -33,3 +33,5 @@ fields:
     max: 
     labelField: title
   label: Curadores
+pages:
+- _data/fuso_curators.yml
