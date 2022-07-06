@@ -10,7 +10,7 @@ layout: fuso
                 {{ page.curadoria }}
             </h5>
             <h5 class="me-5">
-                {{ page.data }}<br>
+                {{ page.data }} Agosto<br>
                 às {{ page.horas }}
             </h5>
             <h5 class="me-5">
@@ -28,11 +28,16 @@ layout: fuso
 </div>
 <div class="border border-top border-black"></div>
 <h5 class="text-center mt-3 mb-4">ON THIS SESSION</h5>
-<div class="d-flex mx-2 mb-3">
+<div class="d-flex mx-2 mb-5">
     {% assign this_session = page.title %}
-    {% for evento in site.fuso_eventos | where:'sessao', 'this_session' %}
+    {% assign these_events = site.fuso_eventos | where:'sessao', this_session %}
+    {% for evento in these_events  %}
     <div class="border border-red w-50 mx-2">
         <a href="{{evento.url}}"><img src="{{site.baseurl}}/{{evento.imagem}}" alt="imagem-evento" class="w-100 h-100 object-fit-cover saturate"></a>
+        <div class="d-flex mt-2">
+            <h5 class="text-uppercase me-5">{{ evento.title }}</h5>
+            <h5>{{ evento.artista }}</h5>
+        </div>
     </div>
     {% endfor %}
 </div>
