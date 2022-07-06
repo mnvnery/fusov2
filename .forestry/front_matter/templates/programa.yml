@@ -45,6 +45,7 @@ fields:
     schema:
       format: html-blocks
   label: Local
+  description: Usar o símbolo de Link para adicionar as direções google Maps
 - name: horas
   type: text
   config:
