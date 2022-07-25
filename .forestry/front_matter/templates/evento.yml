@@ -71,6 +71,7 @@ fields:
   hidden: true
   default: evento
 pages:
+- _fuso_eventos/all-that-burns.html
 - _fuso_eventos/aquarius.html
 - _fuso_eventos/organic-honey-s-vertical-roll.html
 - _fuso_eventos/red-horizon.html
