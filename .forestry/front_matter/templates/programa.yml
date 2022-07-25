@@ -87,6 +87,7 @@ fields:
   default: programa
   hidden: true
 pages:
+- _fuso_programs/mundo-magico.html
 - _fuso_programs/nos-ser-o-outro-para-uma-poetica-do-relacionamento.html
 - _fuso_programs/open-call-fuso-2022-obras-selecionadas.html
 - _fuso_programs/warm-up-fuso-resiliencia.esperanca.comunidade.html
