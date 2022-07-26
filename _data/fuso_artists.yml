@@ -1,5 +1,30 @@
 ---
 artistas:
+- title: José Maçãs de Carvalho
+  bio_pt: <p>José Maçãs de Carvalho (Portugal), é artista, curador e professor universitário.
+    Doutoramento em Arte Contemporânea - Colégio das Artes da Universidade de Coimbra,
+    em 2014; estudou Literatura nos anos 80 na Universidade de Coimbra e Gestão de
+    Artes nos anos 90, em Macau onde trabalhou e viveu; Professor no Dep. de Arquitetura
+    e no Colégio das Artes da Universidade de Coimbra, onde é coordenador do Mestrado
+    em Estudos Curatoriais. É curador do Centro de Arte Contemporânea de Coimbra desde
+    2020. Foi bolseiro da Fundação Calouste Gulbenkian, Fundação Oriente, Instituto
+    Camões, Centro Português de Fotografia e Instituto das Artes/Dgartes. Nomeado
+    para o prémio BESPhoto 2005 (2006, CCB, Lisboa) e para a "shortlist" do prémio
+    de fotografia Pictet Prix, na Suíça, em 2008. Entre 2011 e 2017 realizou várias
+    exposições individuais em torno do tema da sua tese de doutoramento (arquivo e
+    memória).</p>
+  bio_eng: "<p>José Maçãs de Carvalho (Portugal), is an artist, curator and university
+    professor. PhD in Contemporary Art from the College of Arts, University of Coimbra.
+    He studied Arts Management in Macau, where he lived in the 1990’s; Professor at
+    the Department of Architecture and the College of Arts, University of Coimbra,
+    where he is the coordinator of the Masters’ degree in Curatorial Studies. He is
+    curator of Coimbra’s Contemporary Arts Centre since 2020. He has received scholarships
+    from the Calouste Gulbenkian Foundation, Oriente Foundation, Instituto Camões,
+    Centro Português de Fotografia and the Directorate-General for the Arts (Dgartes)
+    of the Ministry of Culture of Portugal. Nominated for the BESPhoto 2005 award
+    (2006, CCB, Lisboa) and was shortlisted for the Pictet Prix photography prize,
+    Switzerland, in 2008.</p><p><br></p>"
+  imagem: ''
 - title: Johanna Billing
   bio_pt: "<p>Johanna Billing nasceu na Suécia em 1973, vive e trabalha em Estocolmo.
     Johanna tem vindo a fazer, desde 1999, trabalhos em vídeo que entrelaçam música,
