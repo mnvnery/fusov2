@@ -1,5 +1,33 @@
 ---
 artistas:
+- title: ''
+  bio_pt: ''
+  bio_eng: ''
+  imagem: ''
+- title: Rivane Neuenschwander
+  bio_pt: "<p>Rivane Neuenschwander nasceu em Belo Horizonte, Minas Gerais, em 1967.
+    Artista visual, em suas obras, apresenta percepções sobre o cotidiano, usando
+    materiais comuns, como plástico, casca, migalha, cabelo e poeira. Vê a parceria
+    como estratégia para sua poética e dialoga com diversas áreas do conhecimento.
+    Tem ampla pesquisa sobre o medo, em seus aspectos psíquicos e sociais, e questiona
+    os códigos de comunicação, como a linguagem e o alfabeto. Participou de várias
+    exposições nacionais e internacionais, como 50ª e a 51ª Biennale di Venezia (2003,
+    2005, Veneza), 27ª e 28ª Bienal de São Paulo (2006, 2008, São Paulo), Histórias
+    da Sexualidade (2017, São Paulo), entre outras. Suas obras estão em grandes coleções
+    institucionais como Tate Modern (Londres), Guggenheim (Nova York), MoMA (Nova
+    York), TBA21 (Viena), Inhotim (Brumadinho).</p>"
+  bio_eng: "<p>Rivane Neuenschwander was born in Belo Horizonte, Minas Gerais, in
+    1967. A visual artist, she works on the perceptions about everyday life, using
+    ordinary materials such as plastic, shells, crumbs, hair and dust. She defends
+    partnership as a strategy for her poetics and dialogues with various areas of
+    knowledge. She has conducted extensive research on fear, in its psychic and social
+    aspects, and questions the codes of communication, such as language and the alphabet.
+    Rivane participated in several national and international exhibitions, such as
+    the 50th and 51st Biennale di Venezia (2003, 2005, Venice), 27th and 28th Bienal
+    de São Paulo (2006, 2008, São Paulo), Histórias da Sexualidade (2017, São Paulo),
+    among others. Her works are in large institutional collections such as Tate Modern
+    (London), Guggenheim (New York), MoMA (New York), TBA21 (Vienna), Inhotim (Brumadinho).</p>"
+  imagem: ''
 - title: Cao Guimarães
   bio_pt: "<p>Cao Guimarães nasceu em 1965 em Belo Horizonte, Brasil, onde vive e
     trabalha. Cao Guimarães atua no cruzamento entre o cinema e as artes plásticas.
