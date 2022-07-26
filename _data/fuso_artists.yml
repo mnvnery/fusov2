@@ -1,5 +1,21 @@
 ---
 artistas:
+- title: Tomás Guedes
+  bio_pt: "<p>Tomás Guedes nasceu no Porto no ano de 1998. É na cidade de Valongo
+    que passa a sua infância e adolescência e onde explora desde pequeno várias atividades
+    artísticas desde o teatro, pintura e especialmente vídeo. Com apenas 18 anos,
+    mudou-se para a cidade de Lisboa onde reside até aos dias de hoje. É licenciado
+    em Ciências da Comunicação pela Universidade Nova de Lisboa, tendo ainda passado
+    pelo curso de Comunicação Audiovisual da Universidade Carlos III em Madrid. Atualmente,
+    é aluno do Ar.Co do curso de Cinema/Imagem em Movimento.</p>"
+  bio_eng: "<p>Tomás Guedes. Born in Porto in 1998. Lived in the city of Valongo as
+    a child and an adolescent. He started, at a very early age, exploring different
+    artistic fields, such as theatre, painting and, especially, video. Guedes moved
+    to Lisbon when he was 18 years old, and has lived there ever since. He graduated
+    in Science Communication from Universidade Nova de Lisboa, frequenting as well
+    the Audiovisual Communication course at Universidade Carlos III in Madrid. Presently,
+    he is studying at Ar.Co, enrolled in the Cinema/Moving Image course.</p>"
+  imagem: ''
 - title: Teresa Olea Molina
   bio_pt: "<p>Teresa Olea Molina nasceu em Granada, Espanha, em 1991. Estudou Tradução
     e Humanidades entre as Universidades de Granada, Poitiers e Curitiba com especialização
