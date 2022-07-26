@@ -1,5 +1,29 @@
 ---
 artistas:
+- title: Daniel Barroca
+  bio_pt: "<p>Daniel Barroca nasceu em Lisboa, em 1976. É formado em Artes Plásticas
+    pela ESAD, nas Caldas da Rainha. Estudou pintura no Ar.Co, em Lisboa, e participou
+    do Curso de Artes Visuais do Projecto Gulbenkian de Criatividade e Criação Artística.
+    Foi vencedor do Prémio União Latina de Jovem Criação e foi distinguido, ainda,
+    com o prémio “Runner Up” na categoria de filme experimental, no IFCT, Washington
+    DC, EUA. Fez residências artísticas na Academia de Espanha em Roma, Roma; na Kunstlerhaus
+    Bethanien, em Berlim, na Q130x Gallery Residency Program, Atenas e na Rijksakademie
+    van Beeldende Kunsten, em Amesterdão. Foi nomeado para o Prémio EDP Novos Artistas
+    em 2003. Começou a expôr em finais da década de 1990 e tem realizado exposições
+    individuais e colectivas em instituições e galerias nacionais e</p>"
+  bio_eng: <p>Daniel Barroca was born in Lisbon in 1976. He finished his Art studies
+    at the School of Art and Design, Caldas da Rainha, in 2001. Studied painting at
+    Ar.Co, in Lisbon, and enrolled in the Gulbenkian Project on Creativity and Artistic
+    Creation. He won the Prémio União Latina de Jovem Criação Award and was also distinguished
+    with the "Runner Up" award in the category of experimental film at IFCT, Washington
+    DC, USA. Barroca has been resident artist at Academia de Espanha en Roma, Roma;
+    na Kunstlerhaus Bethanien, in Berlim; at Q130x Gallery Residency Program, Athens
+    and at the Rijksakademie Van Beeldende Kunsten, Amsterdam supported by the Dutch
+    Ministry of Culture and Science. Won the Prémio EDP Novos Artistas 2003 award.He
+    started exhibiting his work in the 1990s, and has had solo and collective exhibitions
+    in galleries in Portugal and abroad. His videos have equally been exhibited in
+    several festivals.</p>
+  imagem: ''
 - title: Maria Lusitano
   bio_pt: "<p>Maria Lusitano, (Lisboa, 1971) Vive e trabalha em Malmo e Londres.<br>Licenciada
     em Medicina na Universidade de Coimbra em 1997. Estudou na Ar.Co e Maumaus – Escola
