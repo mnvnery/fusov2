@@ -8,6 +8,11 @@ fields:
   config:
     required: false
   label: Titulo
+- name: title_eng
+  type: text
+  config:
+    required: false
+  label: Title ENG
 - name: artista
   type: text
   config:
