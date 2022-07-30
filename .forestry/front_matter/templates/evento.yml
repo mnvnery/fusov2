@@ -75,6 +75,11 @@ fields:
   label: Layout
   hidden: true
   default: evento
+- name: credito_imagem
+  type: text
+  config:
+    required: false
+  label: Crédito Imagem
 pages:
 - _fuso_eventos/a-essencia-de-ser-uma-bicha-the-essence-of-being-queer.html
 - _fuso_eventos/all-that-burns.html
