@@ -18,6 +18,10 @@ collections:
     output: true
   fuso_eventos:
     output: true
+  programs_eng:
+    output: true
+  fuso_events:
+    output: true
 
 # exclude:
 #   - .sass-cache/
