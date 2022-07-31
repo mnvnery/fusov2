@@ -34,7 +34,6 @@ sections:
 - type: document
   path: _data/open-call.yml
   label: Open Call
-  match: "**/*"
 - type: heading
   label: FUSO INSULAR
 - type: document
