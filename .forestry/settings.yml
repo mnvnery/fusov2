@@ -42,7 +42,6 @@ sections:
 - type: document
   path: _data/laboratorio.yml
   label: Laboratorio
-  match: "**/*"
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''
