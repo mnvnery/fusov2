@@ -21,4 +21,5 @@ fields:
       format: html-blocks
   label: Regulamento ENG
 pages:
+- _data/laboratorio.yml
 - _data/open-call.yml
