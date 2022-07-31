@@ -1,8 +1,10 @@
 - text: sobre
   url: /fuso/sobre/
-- text: open call
-  url: /fuso/open-call/
+- text: programa
+  url: /fuso/programa/
 - text: curadores
   url: /fuso/curadores/
 - text: artistas
   url: /fuso/artistas/
+- text: open call
+  url: /fuso/open-call/
