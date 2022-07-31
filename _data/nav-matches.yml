@@ -6,7 +6,15 @@
   eng-version: /fuso-eng/about/
 - pt-version: /fuso/open-call/
   eng-version: /fuso-eng/open-call/
+- pt-version: /fuso/curadores/
+  eng-version: /fuso-eng/curators/
+- pt-version: /fuso/artistas/
+  eng-version: /fuso-eng/artists/
+- pt-version: /fuso/programa/
+  eng-version: /fuso-eng/program/
 - pt-version: /fuso-insular/sobre/
   eng-version: /fuso-insular-eng/about/
+- pt-version: /fuso-insular/laboratorio/
+  eng-version: /fuso-insular-eng/laboratory/
 - pt-version: /fuso-insular/laboratorio/
   eng-version: /fuso-insular-eng/laboratory/

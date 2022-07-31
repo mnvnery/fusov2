@@ -153,7 +153,7 @@ a:hover { color: inherit; }
 
 @media only screen and (max-width: 600px) { .fuso-programs { display: block; } .programa-container { height: 32vh; } .programa-info h5 { font-size: 1em; } .data-programa { width: 40%; } .programa-margin { margin-bottom: 5rem !important; } }
 
-@media only screen and (min-width: 600px) { .w-15 { width: 15%; } .w-7 { width: 7%; } .w-md-25 { width: 25%; } }
+@media only screen and (min-width: 600px) { .w-15 { width: 16%; } .w-7 { width: 7%; } .w-md-25 { width: 25%; } }
 
 .h-25vh { height: 25vh; }
 
