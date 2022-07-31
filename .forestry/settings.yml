@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: document
-  path: _data/laboratorio.yml
-  label: Laboratorio
-  match: "**/*"
 - type: heading
   label: FUSO
 - type: document
@@ -43,6 +39,10 @@ sections:
 - type: document
   path: _data/sobre-insular.yml
   label: Sobre
+- type: document
+  path: _data/laboratorio.yml
+  label: Laboratorio
+  match: "**/*"
 upload_dir: assets/img
 public_path: assets/img
 front_matter_path: ''
