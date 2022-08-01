@@ -153,9 +153,11 @@ a:hover { color: inherit; }
 
 .programa-margin { margin-bottom: 5rem !important; }
 
+@media only screen and (max-width: 330px) { .w-md-25 { font-size: 0.9rem; } }
+
 @media only screen and (max-width: 600px) { .fuso-programs { display: block; } .programa-container { height: 32vh; } .programa-info h5 { font-size: 1em; } .data-programa { width: 40%; } }
 
-@media only screen and (min-width: 600px) { .w-15 { width: 16%; } .w-7 { width: 7%; } .w-md-25 { width: 25%; } }
+@media only screen and (min-width: 600px) { .w-15 { width: 16%; } .w-7 { width: 7%; } .w-md-25 { width: 70%; } }
 
 .h-25vh { height: 25vh; }
 
@@ -167,7 +169,7 @@ a:hover { color: inherit; }
 
 .curators-esfera { position: absolute; z-index: 0; top: 45%; right: 2vw; width: 18%; }
 
-.flex-artistas { display: flex; flex-direction: column; flex-wrap: wrap; max-height: 68vh; }
+.flex-artistas { display: flex; flex-direction: column; flex-wrap: wrap; max-height: 70vh; }
 
 .artist-btn:hover { color: #e64d3c; }
 
@@ -176,5 +178,3 @@ a:hover { color: inherit; }
 @media only screen and (max-width: 600px) { .artist-name { text-decoration: underline; } .artist-bio { margin-bottom: 2em; } .event-grid { display: block; } .curator-title { text-transform: uppercase; } .curators-esfera { display: none; } }
 
 @media only screen and (min-width: 600px) { .artist-text { display: none; } .w-md-50 { width: 50% !important; } }
-
-/*# sourceMappingURL=styles.css.map */
