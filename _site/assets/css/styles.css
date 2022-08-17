@@ -178,3 +178,5 @@ a:hover { color: inherit; }
 @media only screen and (max-width: 600px) { .artist-name { text-decoration: underline; } .artist-bio { margin-bottom: 2em; } .event-grid { display: block; } .curator-title { text-transform: uppercase; } .curators-esfera { display: none; } }
 
 @media only screen and (min-width: 600px) { .artist-text { display: none; } .w-md-50 { width: 50% !important; } }
+
+/*# sourceMappingURL=styles.css.map */
