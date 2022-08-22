@@ -86,6 +86,11 @@ fields:
   label: Layout
   default: programa
   hidden: true
+- name: link_vimeo
+  type: text
+  config:
+    required: false
+  label: Link Vimeo
 pages:
 - _fuso_programs/fora-do-lugar.html
 - _fuso_programs/mundo-magico.html

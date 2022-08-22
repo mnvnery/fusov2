@@ -80,12 +80,6 @@ fields:
   config:
     required: false
   label: Crédito Imagem
-- name: link_vimeo
-  type: text
-  config:
-    required: false
-  label: Link Vimeo
-  description: Para visualização pós-evento
 pages:
 - _fuso_eventos/a-essencia-de-ser-uma-bicha-the-essence-of-being-queer.html
 - _fuso_eventos/all-that-burns.html
