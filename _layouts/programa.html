@@ -17,8 +17,10 @@ layout: fuso
                 <u>Local</u> <br>
                 <div class="hover-red">{{ page.local }}</div>
             </h5>
-            
         </div>
+        {% unless page.title == "WARM UP FUSO <br> Resiliência.  Esperança. Comunidade." %}
+        <div><a href="{{page.link_vimeo}}" target="_blank" class="online-btn font-rossa">ONLINE</a></div>
+        {% endunless %}
     </div>
     <div class="ms-md-3 w-md-50">
         <h5 class="text-uppercase">{{page.title }}</h5>
