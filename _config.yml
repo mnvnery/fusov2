@@ -22,6 +22,10 @@ collections:
     output: true
   fuso_events:
     output: true
+  insular_programas:
+    output: true
+  insular_eventos:
+    output: true
 
 # exclude:
 #   - .sass-cache/
