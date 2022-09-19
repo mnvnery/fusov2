@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: document
   path: _data/insular_artists.yml
-  label: Artistas
+  label: Artists
   match: "**/*"
 - type: heading
   label: FUSO
