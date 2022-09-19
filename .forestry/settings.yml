@@ -40,6 +40,14 @@ sections:
   path: _data/sobre-insular.yml
   label: Sobre
 - type: document
+  path: _data/insular_artists
+  label: Artistas
+  match: "**/*"
+- type: document
+  path: _data/insular_curators
+  label: Curadores
+  match: "**/*"
+- type: document
   path: _data/laboratorio.yml
   label: Laboratorio
 upload_dir: assets/img
