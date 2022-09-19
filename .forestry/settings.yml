@@ -39,12 +39,6 @@ sections:
 - type: document
   path: _data/sobre-insular.yml
   label: Sobre
-- type: document
-  path: _data/insular_artists
-  label: Artistas
-- type: document
-  path: _data/insular_curators
-  label: Curadores
 - type: directory
   path: _insular_programas
   label: Programas
