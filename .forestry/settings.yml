@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: document
+  path: _data/insular_artists.yml
+  label: Artistas
+  match: "**/*"
 - type: heading
   label: FUSO
 - type: document
@@ -42,10 +46,6 @@ sections:
 - type: document
   path: _data/insular_curators.yml
   label: Curadores
-- type: document
-  path: _data/insular_artists.yml
-  label: Artistas
-  match: "**/*"
 - type: directory
   path: _insular_programas
   label: Programas
