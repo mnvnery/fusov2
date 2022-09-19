@@ -47,6 +47,22 @@ sections:
   path: _data/insular_curators
   label: Curadores
   match: "**/*"
+- type: directory
+  path: _insular_programas
+  label: Programas
+  create: documents
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - programa
+- type: directory
+  path: _insular_eventos
+  label: Eventos
+  create: all
+  match: "**/*"
+  new_doc_ext: html
+  templates:
+  - evento
 - type: document
   path: _data/laboratorio.yml
   label: Laboratorio
