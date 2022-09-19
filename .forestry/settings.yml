@@ -42,11 +42,9 @@ sections:
 - type: document
   path: _data/insular_artists
   label: Artistas
-  match: "**/*"
 - type: document
   path: _data/insular_curators
   label: Curadores
-  match: "**/*"
 - type: directory
   path: _insular_programas
   label: Programas
