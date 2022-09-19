@@ -44,7 +44,7 @@ sections:
   label: Curadores
 - type: document
   path: _data/insular_artists.yml
-  label: Artists
+  label: Artistas
   match: "**/*"
 - type: directory
   path: _insular_programas
