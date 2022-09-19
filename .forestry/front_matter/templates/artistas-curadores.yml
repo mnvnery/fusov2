@@ -40,3 +40,4 @@ fields:
   label: Artistas
 pages:
 - _data/fuso_artists.yml
+- _data/insular_artists.yml
