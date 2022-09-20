@@ -40,3 +40,4 @@ fields:
   label: Curadores
 pages:
 - _data/fuso_curators.yml
+- _data/insular_curators.yml
