@@ -1,5 +1,46 @@
 ---
 artistas:
+- title: Leonor Sousa
+  bio_pt: <p>Leonor Sousa é uma artista visual nascida em Lisboa, onde reside e trabalha.
+    O seu trabalho desenvolve-se nos campos da pintura, performance e instalação,
+    através dos quais explora e pesquisa as noções de espaço, arquitetura e trajetória.
+    Criando gestos geográficos através de métodos ensaísticos, questiona a experiência
+    humana no espaço através de estados de "estar em" e "existir onde". Pretende revisitar
+    e repensar os paradigmas do espaço e cartografia.</p>
+  bio_eng: <p>Leonor Sousa is a visual artist born in Lisbon (Portugal), where she
+    is currently based. Her work is focused on the fields of painting, performance
+    and installation, through which she explores and researches the notions of space,
+    architecture and trajectory. By creating geographical gestures through essayistic
+    methods, Sousa questions the human experience in spaces, through the notions of
+    "being in" and "existing where". The aim is to rethink and revisit the paradigms
+    of space and cartography.</p>
+  imagem: ''
+- title: Gabriela Vaz-Pinheiro
+  bio_pt: "<p>Gabriela Vaz-Pinheiro é graduada em escultura pela Faculdade de Belas
+    Artes da Universidade do Porto, e fez o Doutoramento em Belas Artes no Chelsea
+    College, University of Fine Arts, Londres. Professora convidada na Central St.
+    Martins College of Art &amp; Design, em Londres (1998-2006). Os seus interesses
+    dividem-se pela prática artística, o ensino da arte, e a investigação e escrita
+    críticas. O seu trabalho artístico debruça-se sobre questões identitárias e contextuais
+    como forma de interrogar a própria noção de indivíduo, entre narrativas pessoais
+    e sociais. Tem realizado trabalho curatorial com várias colecções institucionais
+    e também em contextos expositivos alternativos. Tem atividade editorial regular,
+    na qual se incluem algumas publicações de artistas. Ensina, desde 2004, na Faculdade
+    de Belas Artes da Universidade do Porto, onde é Membro Integrado do i2ads, Instituto
+    de Investigação em Arte Design e Sociedade.</p>"
+  bio_eng: "<p>Gabriela Vaz-Pinheiro graduated in sculpture from the Faculty of Fine
+    Arts of the University of Porto, and holds a PhD in Fine Arts from Chelsea College,
+    University of Fine Arts, London. Visiting Tutor at the Central St. Martins’ College
+    of Art &amp; Design, London (1998 to 2006). Her interests encompass art practice,
+    art education, as well as critical research and writing. Her artistic work reflects
+    on identity and contextual issues, as a way of questioning the very notion of
+    the individual, between the personal and social narratives. She has carried out
+    curatorial work for various institutional collections and also in alternative
+    exhibition contexts. She has regular editorial activity, which includes artists'
+    books. Since 2004, Vaz-Pinheiro has been teaching at the i2ADS – Institute of
+    Research in Art, Design and Society is a R&amp;D unit based at the Faculty of
+    Fine Arts of the University of Porto (FBAUP).</p>"
+  imagem: ''
 - title: Gui Athayde
   bio_pt: "<p>Gui Athayde é um ilustrador e animador brasileiro, atualmente vivendo
     entre a Alemanha e Portugal. O seu objetivo é produzir um corpo de trabalho pertinente
