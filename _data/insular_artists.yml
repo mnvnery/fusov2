@@ -1,5 +1,21 @@
 ---
 artistas:
+- title: Ricardo Leandro
+  bio_pt: "<p>Ricardo Leandro (1982) é licenciado em Artes Visuais pela Universidade
+    de Évora e encontra-se neste momento no segundo ano do mestrado de Arte Multimédia,
+    na Faculdade de Belas Artes da Universidade de Lisboa.</p><p>O seu trabalho tem
+    uma forte presença de vídeo e som, instalação e escrita, e ultimamente tem desenvolvido
+    projectos que usam práticas transmedia, onde os conceitos de arte e entretenimento
+    são constantemente postos à prova, com o intuito de criar debates sobre a mensagem
+    da obra artística e o seu relacionamento com o público.</p>"
+  bio_eng: "<p>Ricardo Leandro (1982) has a degree in Visual Arts from the University
+    of Évora and is currently in the second year of his master's degree in Multimedia
+    Art at the Faculty of Fine Arts of the University of Lisbon. His works are based
+    on video and sound, installation and writing, and of late he has been developing
+    projects that use transmedia practices, where the concepts of art and entertainment
+    are constantly put to the test, in order to incite debates about the message of
+    the artistic work and its relationship with the public.</p>"
+  imagem: ''
 - title: Leonor Sousa
   bio_pt: <p>Leonor Sousa é uma artista visual nascida em Lisboa, onde reside e trabalha.
     O seu trabalho desenvolve-se nos campos da pintura, performance e instalação,
