@@ -1,5 +1,42 @@
 ---
 artistas:
+- title: Gui Athayde
+  bio_pt: "<p>Gui Athayde é um ilustrador e animador brasileiro, atualmente vivendo
+    entre a Alemanha e Portugal. O seu objetivo é produzir um corpo de trabalho pertinente
+    e contar histórias que emocionem as pessoas.</p>"
+  bio_eng: "<p>Gui Athayde is a Brazilian illustrator and cultural animator, currently
+    living between Portugal and Germany. His goal is to produce meaningful work and
+    tell stories that move people.</p>"
+  imagem: ''
+- title: José Taborda
+  bio_pt: '<p>José Taborda (n. Lisboa 1994). Licenciado em Pintura pela Faculdade
+    de Belas Artes da Universidade de Lisboa. Estuda Belas Artes na Bauhaus Universität
+    em Weimar, Alemanha. Vencedor do 1º Prémio A.J. Carpe Diem Arte e Pesquisa - Fundação
+    Millennium BCP, vencedor do 1º Prémio de escultura D. Fernando II, premiado com
+    o Bauhaus Essentials Prize. Expõe regularmente em Portugal e no estrangeiro. De
+    entre as mais recentes exposições destacam-se: “Fénix”, Galeria Graça Brandão
+    (2022); “Tracing the Infrathin”, Monitor Gallery, Lisboa (2022); a exposição individual
+    “Wing Walking”, Eigenheim Gallery, Berlim (2021). As suas obras também foram apresentadas
+    em: 71st Jeune Création, Fiminco Fondation, Paris (2021); Apophenia, Las Palmas,
+    Espanha; Culturgest, Porto (2021); WIMBA, Steneby Konsthall, Suécia (2021); a
+    exposição individual “149,597,870 KM em 7 passos”, Galeria Ocupa, Porto (2021);
+    “New beginnings", VOGUE Magazine Portugal (2021); Bienal da Maia, Fórum Maia,
+    Portugal (2021); “9 Gabinetes”, MU.SA, Sintra (2021); “Cruise Control”, Mono,
+    Lisboa (2021).</p>'
+  bio_eng: "<p>José Taborda (b. Lisbon, 1994). Holds a degree in Painting from the
+    Faculty of Fine Arts of the University of Lisbon. Studied Fine Arts at the BAUHAUS
+    Universität in Weimar, Germany. Awarded with the 1st prize A.J. Millennium BCP
+    Foundation - Carpe Diem Foundation Prize; the 1st prize D. Fernando Sculpture
+    Prize, and the Bauhaus Essentials Prize. Taborda exhibits regularly in Portugal
+    and abroad. Among his recent exhibitions are: “Fénix”, Graça Brandão Gallery (2022);
+    “Tracing the Infrathin”, Monitor Gallery, Lisbon (2022); the solo exhibition “Wing
+    Walking”, Eigenheim Gallery, Berlin (2021); 71st Jeune Création, Fiminco Fondation,
+    Paris (2021); Apophenia Las Palmas, Spain; Culturgest, Porto (2021); WIMBA, Steneby
+    Konsthall, Sweden (2021); the solo exhibition “149,597,870 KM in 7 steps”, Ocupa
+    Gallery, Porto (2021); “New Beginnings”, VOGUE Magazine Portugal (2021); Maia
+    Bienal, Forum Maia, Portugal (2021); “9 Gabinetes”, MU.SA, Sintra, Portugal (2021);
+    “Cruise Control”, Mono, Lisbon (2021).</p>"
+  imagem: ''
 - title: Júlio F. R. Costa
   bio_pt: "<p>Júlio F. R. Costa (n. 1989) tem escrito e publicado artigos em torno
     de uma filosofia do mercado da arte contemporânea, nomeadamente acerca da obra
