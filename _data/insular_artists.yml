@@ -1,35 +1,45 @@
 ---
 artistas:
-- title: Ricardo Leandro
-  bio_pt: "<p>Ricardo Leandro (1982) é licenciado em Artes Visuais pela Universidade
-    de Évora e encontra-se neste momento no segundo ano do mestrado de Arte Multimédia,
-    na Faculdade de Belas Artes da Universidade de Lisboa.</p><p>O seu trabalho tem
-    uma forte presença de vídeo e som, instalação e escrita, e ultimamente tem desenvolvido
-    projectos que usam práticas transmedia, onde os conceitos de arte e entretenimento
-    são constantemente postos à prova, com o intuito de criar debates sobre a mensagem
-    da obra artística e o seu relacionamento com o público.</p>"
-  bio_eng: "<p>Ricardo Leandro (1982) has a degree in Visual Arts from the University
-    of Évora and is currently in the second year of his master's degree in Multimedia
-    Art at the Faculty of Fine Arts of the University of Lisbon. His works are based
-    on video and sound, installation and writing, and of late he has been developing
-    projects that use transmedia practices, where the concepts of art and entertainment
-    are constantly put to the test, in order to incite debates about the message of
-    the artistic work and its relationship with the public.</p>"
-  imagem: ''
-- title: Leonor Sousa
-  bio_pt: <p>Leonor Sousa é uma artista visual nascida em Lisboa, onde reside e trabalha.
-    O seu trabalho desenvolve-se nos campos da pintura, performance e instalação,
-    através dos quais explora e pesquisa as noções de espaço, arquitetura e trajetória.
-    Criando gestos geográficos através de métodos ensaísticos, questiona a experiência
-    humana no espaço através de estados de "estar em" e "existir onde". Pretende revisitar
-    e repensar os paradigmas do espaço e cartografia.</p>
-  bio_eng: <p>Leonor Sousa is a visual artist born in Lisbon (Portugal), where she
-    is currently based. Her work is focused on the fields of painting, performance
-    and installation, through which she explores and researches the notions of space,
-    architecture and trajectory. By creating geographical gestures through essayistic
-    methods, Sousa questions the human experience in spaces, through the notions of
-    "being in" and "existing where". The aim is to rethink and revisit the paradigms
-    of space and cartography.</p>
+- title: Alia Syed
+  bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
+    Faz cinema experimental há mais de 25 anos. Os seus filmes recaem sobre questões
+    de memória, representação e colonialismo, explorando e questionando as estruturas
+    pessoais e as realidades históricas nas narrativas pós-coloniais. Os seus dois
+    trabalhos mais recentes combinam o seu interesse em contar histórias (storytelling)
+    com uma apresentação apelativa da história enquanto narrativa visual, recorrendo
+    a diversas subjetividades para recontextualizar, respetivamente, o fluxo de tempo
+    do rio Tamisa e a regeneração da cidade de Glasgow.</p><p>A sua abordagem singular
+    conjuga diferentes posições subjetivas em relação à cultura, diáspora e lugar,
+    especificamente no que diz respeito ao género e noções de diferença cultural.
+    Os filmes de Syed têm sido exibidos em numerosas instituições em todo o mundo,
+    incluindo: BBC Arts Online (em curso), The Triangle Space: Chelsea College of
+    Arts, Londres (2014), Los Angeles County Museum of Art, EUA (2012-13); 5ª Bienal
+    de Moscovo (2013); Museu de Arte Moderna de Nova Iorque (MoMA), (2010); Museo
+    Nacional Centro de Arte Reina Sofia, Madrid (2009); XV Sydney Biennale (2006);
+    Hayward Gallery, Londres (2005); Tate Britain, Londres (2003); Glasgow Museum
+    of Modern Art, Escócia (2002); Iniva, Londres (2002); The New Art Gallery em Walsall,
+    West Midlands, Reino Unido (2002); Tate Modern, Londres (2000). Os seus filmes
+    foram objeto de exposições individuais na Talwar Gallery, Nova Iorque e Nova Delhi.
+    É representada por esta galeria. Foi nomeada para o Derek Jarman Award em 2015.</p>"
+  bio_eng: "<p>Alia Syed was born in Swansea, Wales and lives between London and Glasgow.
+    She has been making experimental films in Britain for over 25 years. Alia Syed's
+    films examine memory, representation and colonialism through narratives constructed
+    from personal and historical realities. Her two most recent works combine her
+    interest in storytelling with a compelling presentation of history as a visual
+    narrative; using diverse subjectivities to reframe both the time flow of the river
+    Thames and the regeneration of the city of Glasgow respectively. Her unique approach
+    sutures different subjective positions in relation to culture, diaspora, and location,
+    specifically in relation to gender and notions of cultural difference. Syed’s
+    films have been shown at numerous institutions around the world including BBC
+    Arts Online (currently), The Triangle Space: Chelsea College of Arts (2014), Los
+    Angeles County Museum of Art in 2012-13, 5th Moscow Biennale (2013); Museum of
+    Modern Art, New York (2010); Museo Nacional Centro de Arte Reina Sofia, Madrid
+    (2009); XV Sydney Biennale (2006); Hayward Gallery, London (2005); Tate Britain,
+    London (2003); Glasgow Museum of Modern Art, Scotland (2002); Iniva, London (2002);
+    The New Art Gallery in Walsall (2002); and Tate Modern, London (2000). Syed’s
+    films have also been the subject of several solo exhibitions at Talwar Gallery
+    in New York and New Delhi. She is represented by Talwar Gallery in New York and
+    New Delhi and was nominated for the Jarman Award in 2015.</p>"
   imagem: ''
 - title: Gabriela Vaz-Pinheiro
   bio_pt: "<p>Gabriela Vaz-Pinheiro é graduada em escultura pela Faculdade de Belas
@@ -65,6 +75,59 @@ artistas:
     living between Portugal and Germany. His goal is to produce meaningful work and
     tell stories that move people.</p>"
   imagem: ''
+- title: Hoji Fortuna
+  bio_pt: "<p>Hoji Fortuna nasceu em Luanda, Angola. Frequentou o curso de Direito
+    na Faculdade de Direito da Universidade Agostinho Neto (1990-1993/Angola), e na
+    Universidade Católica Portuguesa - Centro Regional do Porto (1997-2000/Portugal).
+    É graduado em Administração Local pelo Centro de Estudos e Formação Autárquica
+    de Coimbra (1994-1996/Portugal). Frequentou cursos de Interpretação Dramática
+    em: Act-Escola de Atores (2005/Portugal); Stella Adler Studio of Actors (2009-2010/EUA);
+    Berlinale Talent Campus (2014/Alemanha) e na Royal Central School of Speech and
+    Drama (2015/Inglaterra). É ator desde 2001, tendo trabalhado em teatro, cinema
+    e televisão, quer em Portugal quer no estrangeiro, para canais de televisão pública
+    e privada e plataformas de streaming, bem como para instituições culturais, tais
+    como: SIC, TVI, RTP, Teatro Nacional D. Maria II, Sony Pictures, ABC Network,
+    BBC, AMC Networks, Rede Globo, Netflix e Amazon. Em 2011 foi galardoado com o
+    prémio de Melhor Actor Secundário pela Academia Africana de Cinema e em 2021 financiou
+    e dirigiu a sua primeira curta-metragem, “A Lisbon Affair”, que está na seleção
+    oficial do 29th New York African Film Festival 2022.</p>"
+  bio_eng: "<p>Hoji Fortuna was born in Luanda, Angola. He studied law at the Faculty
+    of Law of Universidade Agostinho Neto (1990-1993/Angola), and at Universidade
+    Católica Portuguesa – Porto Regional Center (1997-2000/Portugal). Graduated in
+    Local Governance at Cefa - Centro de Estudos e Formação Autárquica de Coimbra
+    (1994-1996/Portugal). Fortuna also attended drama courses at: Act-Escola de Atores
+    (2005/Portugal); Stella Adler Studio of Actors (2009-2010/EUA); Berlinale Talent
+    Campus (2014/Germany), and Royal Central School of Speech and Drama (2015/England).
+    He is a professional actor since 2001, having worked in theater, cinema and TV,
+    both in Portugal and abroad, for numerous cable TV networks, streaming platforms
+    and cultural institutions, such as: SIC, TVI, RTP, Teatro Nacional D. Maria II,
+    Sony Pictures, ABC Network, BBC, AMC Networks, Rede Globo, Netflix and Amazon.
+    In 2011 he was awarded the “Best Actor in a Supporting Role” by the Africa Movie
+    Academy Awards and in 2021. He wrote, produced, directed and financed the short
+    film “A Lisbon Affair”, which is in the official selection at the 29th New York
+    African Film Festival, 2022.</p>"
+  imagem: ''
+- title: Júlio F. R. Costa
+  bio_pt: "<p>Júlio F. R. Costa (n. 1989) tem escrito e publicado artigos em torno
+    de uma filosofia do mercado da arte contemporânea, nomeadamente acerca da obra
+    de arte enquanto mercadoria e da posição do artista no mundo da arte atual. Enquanto
+    artista visual está principalmente interessado no vídeo-experimentalismo, com
+    ênfase nas animações experimentais – aproveitando o gosto pelo desenho para as
+    tornar “um bocadinho animadas”. Tem participado em festivais nacionais e internacionais,
+    bem como em exposições de artes visuais. O seu primeiro romance “Retalhos da Vida
+    de Eduardo Lopo” foi publicado em 2019. É presidente do Colectivo 249 (www.colectivo249.com),
+    onde luta pela descentralização da Arte.</p>"
+  bio_eng: <p>Júlio F. R. Costa (b. 1989) has written and published articles in the
+    ambit of a philosophy within the framework of the contemporary art market, namely
+    about the work of art as a commodity and the position of the artist in today's
+    art world. As a visual artist, he is interested in experimental video with an
+    emphasis on experimental animation - taking advantage of his taste for drawing
+    to make it "a bit more animated". He has participated in national and international
+    festivals, as well as art exhibitions. His first novel “Retalhos da Vida de Eduardo
+    Lopo'' (Fragments of the Life of Eduardo Lopo) was published in 2019. Costa is
+    President of Colectivo249 (www.colectivo249.com), where he fights for the decentralization
+    of Art.</p>
+  imagem: ''
 - title: José Taborda
   bio_pt: '<p>José Taborda (n. Lisboa 1994). Licenciado em Pintura pela Faculdade
     de Belas Artes da Universidade de Lisboa. Estuda Belas Artes na Bauhaus Universität
@@ -94,27 +157,6 @@ artistas:
     Bienal, Forum Maia, Portugal (2021); “9 Gabinetes”, MU.SA, Sintra, Portugal (2021);
     “Cruise Control”, Mono, Lisbon (2021).</p>"
   imagem: ''
-- title: Júlio F. R. Costa
-  bio_pt: "<p>Júlio F. R. Costa (n. 1989) tem escrito e publicado artigos em torno
-    de uma filosofia do mercado da arte contemporânea, nomeadamente acerca da obra
-    de arte enquanto mercadoria e da posição do artista no mundo da arte atual. Enquanto
-    artista visual está principalmente interessado no vídeo-experimentalismo, com
-    ênfase nas animações experimentais – aproveitando o gosto pelo desenho para as
-    tornar “um bocadinho animadas”. Tem participado em festivais nacionais e internacionais,
-    bem como em exposições de artes visuais. O seu primeiro romance “Retalhos da Vida
-    de Eduardo Lopo” foi publicado em 2019. É presidente do Colectivo 249 (www.colectivo249.com),
-    onde luta pela descentralização da Arte.</p>"
-  bio_eng: <p>Júlio F. R. Costa (b. 1989) has written and published articles in the
-    ambit of a philosophy within the framework of the contemporary art market, namely
-    about the work of art as a commodity and the position of the artist in today's
-    art world. As a visual artist, he is interested in experimental video with an
-    emphasis on experimental animation - taking advantage of his taste for drawing
-    to make it "a bit more animated". He has participated in national and international
-    festivals, as well as art exhibitions. His first novel “Retalhos da Vida de Eduardo
-    Lopo'' (Fragments of the Life of Eduardo Lopo) was published in 2019. Costa is
-    President of Colectivo249 (www.colectivo249.com), where he fights for the decentralization
-    of Art.</p>
-  imagem: ''
 - title: Léna Lewis-King
   bio_pt: "<p>Léna Lewis-King (b.1999) é uma artista-cineasta baseada em Portugal.
     O seu trabalho dedica-se às transformações mágicas cotidianas que surgem no interior
@@ -136,23 +178,20 @@ artistas:
     founding the online publication ‘open2’ (2020-21), as well as curating the group
     show ‘Point and Shoot’ at Platform Gallery, Kingston School of Art, London (2020).</p>"
   imagem: ''
-- title: Maxime Martinot
-  bio_pt: "<p>Maxime Martinot é realizador de cinema, editor e autor. Após os estudos
-    na Université Paris 8, trabalhou entre a Bretanha, Paris e Lisboa. A sua primeira
-    longa metragem, “Trois contes de Borges” (2014) foi premiada com dois prémios
-    no FIDMarseille —Marseille International Film Festival, no mesmo ano, e estreou
-    nos cinemas em 2018. O seu ensaio “Histoire de la Rèvolution” ganhou o Grand Prix
-    André S. Labarthe do Entrevues Belfort Film Festival (França/2019). Em 2022, seu
-    filme “Os Antílopes” foi selecionado pela Académie des César para o César de melhor
-    curta-metragem documental.</p>"
-  bio_eng: "<p>Maxime Martinot is a French director, editor and writer. After his
-    film studies at the University of Paris 8, he worked between Brittany, Paris and
-    Lisbon. His first feature film, “Trois contes de Borges” (Three Tales of Borges)
-    (2014), won two prizes at FIDMarseille —Marseille International Film Festival,and
-    was released in French theaters in 2018. His short essay film Histoire de la révolution
-    won the Best Short Film Award at the Entrevues- Belfort International Film Festival
-    (France/2019). In 2022, his short film “Les Antilopes” was selected by the Académie
-    des César for the César for best documentary short film.</p>"
+- title: Leonor Sousa
+  bio_pt: <p>Leonor Sousa é uma artista visual nascida em Lisboa, onde reside e trabalha.
+    O seu trabalho desenvolve-se nos campos da pintura, performance e instalação,
+    através dos quais explora e pesquisa as noções de espaço, arquitetura e trajetória.
+    Criando gestos geográficos através de métodos ensaísticos, questiona a experiência
+    humana no espaço através de estados de "estar em" e "existir onde". Pretende revisitar
+    e repensar os paradigmas do espaço e cartografia.</p>
+  bio_eng: <p>Leonor Sousa is a visual artist born in Lisbon (Portugal), where she
+    is currently based. Her work is focused on the fields of painting, performance
+    and installation, through which she explores and researches the notions of space,
+    architecture and trajectory. By creating geographical gestures through essayistic
+    methods, Sousa questions the human experience in spaces, through the notions of
+    "being in" and "existing where". The aim is to rethink and revisit the paradigms
+    of space and cartography.</p>
   imagem: ''
 - title: Marcelo Moscheta
   bio_pt: "<p>Marcelo Moscheta (1976, São José do Rio Preto, Brasil). Vive e trabalha
@@ -183,6 +222,40 @@ artistas:
     Visual Arts Production Stimulus Grant (2014); Marc Ferrez Photography Prize (2012);
     I Pipa Popular Jury Prize in 2010. He is represented in various private and institutional
     collections.</p>"
+  imagem: ''
+- title: Maxime Martinot
+  bio_pt: "<p>Maxime Martinot é realizador de cinema, editor e autor. Após os estudos
+    na Université Paris 8, trabalhou entre a Bretanha, Paris e Lisboa. A sua primeira
+    longa metragem, “Trois contes de Borges” (2014) foi premiada com dois prémios
+    no FIDMarseille —Marseille International Film Festival, no mesmo ano, e estreou
+    nos cinemas em 2018. O seu ensaio “Histoire de la Rèvolution” ganhou o Grand Prix
+    André S. Labarthe do Entrevues Belfort Film Festival (França/2019). Em 2022, seu
+    filme “Os Antílopes” foi selecionado pela Académie des César para o César de melhor
+    curta-metragem documental.</p>"
+  bio_eng: "<p>Maxime Martinot is a French director, editor and writer. After his
+    film studies at the University of Paris 8, he worked between Brittany, Paris and
+    Lisbon. His first feature film, “Trois contes de Borges” (Three Tales of Borges)
+    (2014), won two prizes at FIDMarseille —Marseille International Film Festival,and
+    was released in French theaters in 2018. His short essay film Histoire de la révolution
+    won the Best Short Film Award at the Entrevues- Belfort International Film Festival
+    (France/2019). In 2022, his short film “Les Antilopes” was selected by the Académie
+    des César for the César for best documentary short film.</p>"
+  imagem: ''
+- title: Ricardo Leandro
+  bio_pt: "<p>Ricardo Leandro (1982) é licenciado em Artes Visuais pela Universidade
+    de Évora e encontra-se neste momento no segundo ano do mestrado de Arte Multimédia,
+    na Faculdade de Belas Artes da Universidade de Lisboa.</p><p>O seu trabalho tem
+    uma forte presença de vídeo e som, instalação e escrita, e ultimamente tem desenvolvido
+    projectos que usam práticas transmedia, onde os conceitos de arte e entretenimento
+    são constantemente postos à prova, com o intuito de criar debates sobre a mensagem
+    da obra artística e o seu relacionamento com o público.</p>"
+  bio_eng: "<p>Ricardo Leandro (1982) has a degree in Visual Arts from the University
+    of Évora and is currently in the second year of his master's degree in Multimedia
+    Art at the Faculty of Fine Arts of the University of Lisbon. His works are based
+    on video and sound, installation and writing, and of late he has been developing
+    projects that use transmedia practices, where the concepts of art and entertainment
+    are constantly put to the test, in order to incite debates about the message of
+    the artistic work and its relationship with the public.</p>"
   imagem: ''
 - title: Sara Carneiro
   bio_pt: "<p>Sara Carneiro (Viseu, 1994) é uma artista visual portuguesa que atualmente
@@ -215,38 +288,6 @@ artistas:
     mediums ranging from sculpture to experimental film, Sara explores symbolic relations
     between materials that allow her to speak about history, identity and notions
     of power.</p>"
-  imagem: ''
-- title: Hoji Fortuna
-  bio_pt: "<p>Hoji Fortuna nasceu em Luanda, Angola. Frequentou o curso de Direito
-    na Faculdade de Direito da Universidade Agostinho Neto (1990-1993/Angola), e na
-    Universidade Católica Portuguesa - Centro Regional do Porto (1997-2000/Portugal).
-    É graduado em Administração Local pelo Centro de Estudos e Formação Autárquica
-    de Coimbra (1994-1996/Portugal). Frequentou cursos de Interpretação Dramática
-    em: Act-Escola de Atores (2005/Portugal); Stella Adler Studio of Actors (2009-2010/EUA);
-    Berlinale Talent Campus (2014/Alemanha) e na Royal Central School of Speech and
-    Drama (2015/Inglaterra). É ator desde 2001, tendo trabalhado em teatro, cinema
-    e televisão, quer em Portugal quer no estrangeiro, para canais de televisão pública
-    e privada e plataformas de streaming, bem como para instituições culturais, tais
-    como: SIC, TVI, RTP, Teatro Nacional D. Maria II, Sony Pictures, ABC Network,
-    BBC, AMC Networks, Rede Globo, Netflix e Amazon. Em 2011 foi galardoado com o
-    prémio de Melhor Actor Secundário pela Academia Africana de Cinema e em 2021 financiou
-    e dirigiu a sua primeira curta-metragem, “A Lisbon Affair”, que está na seleção
-    oficial do 29th New York African Film Festival 2022.</p>"
-  bio_eng: "<p>Hoji Fortuna was born in Luanda, Angola. He studied law at the Faculty
-    of Law of Universidade Agostinho Neto (1990-1993/Angola), and at Universidade
-    Católica Portuguesa – Porto Regional Center (1997-2000/Portugal). Graduated in
-    Local Governance at Cefa - Centro de Estudos e Formação Autárquica de Coimbra
-    (1994-1996/Portugal). Fortuna also attended drama courses at: Act-Escola de Atores
-    (2005/Portugal); Stella Adler Studio of Actors (2009-2010/EUA); Berlinale Talent
-    Campus (2014/Germany), and Royal Central School of Speech and Drama (2015/England).
-    He is a professional actor since 2001, having worked in theater, cinema and TV,
-    both in Portugal and abroad, for numerous cable TV networks, streaming platforms
-    and cultural institutions, such as: SIC, TVI, RTP, Teatro Nacional D. Maria II,
-    Sony Pictures, ABC Network, BBC, AMC Networks, Rede Globo, Netflix and Amazon.
-    In 2011 he was awarded the “Best Actor in a Supporting Role” by the Africa Movie
-    Academy Awards and in 2021. He wrote, produced, directed and financed the short
-    film “A Lisbon Affair”, which is in the official selection at the 29th New York
-    African Film Festival, 2022.</p>"
   imagem: ''
 - title: Remy Jungerman
   bio_pt: "<p>Remy Jungerman (1959), um dos artistas mais importantes dos Países Baixos,
@@ -289,47 +330,6 @@ artistas:
     CA; Stedelijk Museum, Amsterdam; Museum Arnhem; Fridman Gallery, New York; Goodman
     Gallery, London; Havana Biennale; Museum Bamako, Mali; Museum Tromso, Norway;
     Künstlerhaus Bethanien, Berlin, DE; Badischer Kunstverein, Karlsruhe.</p>"
-  imagem: ''
-- title: Alia Syed
-  bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
-    Faz cinema experimental há mais de 25 anos. Os seus filmes recaem sobre questões
-    de memória, representação e colonialismo, explorando e questionando as estruturas
-    pessoais e as realidades históricas nas narrativas pós-coloniais. Os seus dois
-    trabalhos mais recentes combinam o seu interesse em contar histórias (storytelling)
-    com uma apresentação apelativa da história enquanto narrativa visual, recorrendo
-    a diversas subjetividades para recontextualizar, respetivamente, o fluxo de tempo
-    do rio Tamisa e a regeneração da cidade de Glasgow.</p><p>A sua abordagem singular
-    conjuga diferentes posições subjetivas em relação à cultura, diáspora e lugar,
-    especificamente no que diz respeito ao género e noções de diferença cultural.
-    Os filmes de Syed têm sido exibidos em numerosas instituições em todo o mundo,
-    incluindo: BBC Arts Online (em curso), The Triangle Space: Chelsea College of
-    Arts, Londres (2014), Los Angeles County Museum of Art, EUA (2012-13); 5ª Bienal
-    de Moscovo (2013); Museu de Arte Moderna de Nova Iorque (MoMA), (2010); Museo
-    Nacional Centro de Arte Reina Sofia, Madrid (2009); XV Sydney Biennale (2006);
-    Hayward Gallery, Londres (2005); Tate Britain, Londres (2003); Glasgow Museum
-    of Modern Art, Escócia (2002); Iniva, Londres (2002); The New Art Gallery em Walsall,
-    West Midlands, Reino Unido (2002); Tate Modern, Londres (2000). Os seus filmes
-    foram objeto de exposições individuais na Talwar Gallery, Nova Iorque e Nova Delhi.
-    É representada por esta galeria. Foi nomeada para o Derek Jarman Award em 2015.</p>"
-  bio_eng: "<p>Alia Syed was born in Swansea, Wales and lives between London and Glasgow.
-    She has been making experimental films in Britain for over 25 years. Alia Syed's
-    films examine memory, representation and colonialism through narratives constructed
-    from personal and historical realities. Her two most recent works combine her
-    interest in storytelling with a compelling presentation of history as a visual
-    narrative; using diverse subjectivities to reframe both the time flow of the river
-    Thames and the regeneration of the city of Glasgow respectively. Her unique approach
-    sutures different subjective positions in relation to culture, diaspora, and location,
-    specifically in relation to gender and notions of cultural difference. Syed’s
-    films have been shown at numerous institutions around the world including BBC
-    Arts Online (currently), The Triangle Space: Chelsea College of Arts (2014), Los
-    Angeles County Museum of Art in 2012-13, 5th Moscow Biennale (2013); Museum of
-    Modern Art, New York (2010); Museo Nacional Centro de Arte Reina Sofia, Madrid
-    (2009); XV Sydney Biennale (2006); Hayward Gallery, London (2005); Tate Britain,
-    London (2003); Glasgow Museum of Modern Art, Scotland (2002); Iniva, London (2002);
-    The New Art Gallery in Walsall (2002); and Tate Modern, London (2000). Syed’s
-    films have also been the subject of several solo exhibitions at Talwar Gallery
-    in New York and New Delhi. She is represented by Talwar Gallery in New York and
-    New Delhi and was nominated for the Jarman Award in 2015.</p>"
   imagem: ''
 - title: Monica de Miranda
   bio_pt: "<p>Monica de Miranda é uma artista visual, realizadora e investigadora
