@@ -1,33 +1,5 @@
 ---
 artistas:
-- title: Laura Brasil
-  bio_pt: "<p>Laura Brasil<strong> </strong>é uma realizadora açoriana, natural de
-    Angra do Heroísmo.<strong><br></strong>Naturalmente desperta para explorar o sentido
-    profundo das coisas e da consciência humana, sempre se fascinou e se deixou motivar
-    pela arte de contar histórias. Licenciou-se em Cinema, pela Escola Superior de
-    Teatro e Cinema de Lisboa. Ao longo do seu percurso realizou e participou em diversos
-    filmes, com passagem por festivais nacionais e internacionais, sendo os de maior
-    destaque ‘O Choro dos Ilhéus’ (2009); ‘Verde Cinza’ (2018); ‘Um Beijo na Testa’
-    (2010); ou ‘Flores’ (2017), de Jorge Jácome.<br>Invariavelmente, imprime um sentido
-    de estética muito característico nos seus projetos e gosta, principalmente, de
-    trabalhar a emoção que a imagem (e o som) conseguem transmitir, através da beleza
-    dos enquadramentos, do jogo do dentro e fora de plano e da memória individual
-    que cada gesto pode edificar. Atualmente, tem aliado a fotografia ao vídeo e realizado
-    instalações que reúnem estas duas artes.</p>"
-  bio_eng: "<p>Laura Brasil<strong> </strong>is an Azorean director, born in Angra
-    do Heroísmo. She was always eager to explore the deep meaning of things and of
-    the human consciousness and has always been fascinated by the art of storytelling.
-    She graduated in Cinema from the Escola Superior de Teatro e Cinema de Lisboa.
-    Throughout her career, she has made and participated in several films and has
-    had her work shown in national and international festivals. She wants to highlight
-    her films “O Choro dos Ilhéus” (2009); “Verde Cinza” (2018); “Um Beijo na Testa”
-    (2010); and her participation in 'Flores' (2017), by Jorge Jácome. She invariably
-    imprints a very characteristic sense of aesthetics in her projects, working mainly
-    on the emotions that the image (and the sound) can transmit through the beauty
-    of the frame, the game between in and out of frame, and the individual memory
-    that each of them suggests. Currently, she is bringing photography and video together
-    in installations.</p>"
-  imagem: ''
 - title: Alia Syed
   bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
     Faz cinema experimental há mais de 25 anos. Os seus filmes recaem sobre questões
@@ -241,6 +213,34 @@ artistas:
     Gallery, Porto (2021); “New Beginnings”, VOGUE Magazine Portugal (2021); Maia
     Bienal, Forum Maia, Portugal (2021); “9 Gabinetes”, MU.SA, Sintra, Portugal (2021);
     “Cruise Control”, Mono, Lisbon (2021).</p>"
+  imagem: ''
+- title: Laura Brasil
+  bio_pt: "<p>Laura Brasil<strong> </strong>é uma realizadora açoriana, natural de
+    Angra do Heroísmo.<strong><br></strong>Naturalmente desperta para explorar o sentido
+    profundo das coisas e da consciência humana, sempre se fascinou e se deixou motivar
+    pela arte de contar histórias. Licenciou-se em Cinema, pela Escola Superior de
+    Teatro e Cinema de Lisboa. Ao longo do seu percurso realizou e participou em diversos
+    filmes, com passagem por festivais nacionais e internacionais, sendo os de maior
+    destaque ‘O Choro dos Ilhéus’ (2009); ‘Verde Cinza’ (2018); ‘Um Beijo na Testa’
+    (2010); ou ‘Flores’ (2017), de Jorge Jácome.<br>Invariavelmente, imprime um sentido
+    de estética muito característico nos seus projetos e gosta, principalmente, de
+    trabalhar a emoção que a imagem (e o som) conseguem transmitir, através da beleza
+    dos enquadramentos, do jogo do dentro e fora de plano e da memória individual
+    que cada gesto pode edificar. Atualmente, tem aliado a fotografia ao vídeo e realizado
+    instalações que reúnem estas duas artes.</p>"
+  bio_eng: "<p>Laura Brasil<strong> </strong>is an Azorean director, born in Angra
+    do Heroísmo. She was always eager to explore the deep meaning of things and of
+    the human consciousness and has always been fascinated by the art of storytelling.
+    She graduated in Cinema from the Escola Superior de Teatro e Cinema de Lisboa.
+    Throughout her career, she has made and participated in several films and has
+    had her work shown in national and international festivals. She wants to highlight
+    her films “O Choro dos Ilhéus” (2009); “Verde Cinza” (2018); “Um Beijo na Testa”
+    (2010); and her participation in 'Flores' (2017), by Jorge Jácome. She invariably
+    imprints a very characteristic sense of aesthetics in her projects, working mainly
+    on the emotions that the image (and the sound) can transmit through the beauty
+    of the frame, the game between in and out of frame, and the individual memory
+    that each of them suggests. Currently, she is bringing photography and video together
+    in installations.</p>"
   imagem: ''
 - title: Léna Lewis-King
   bio_pt: "<p>Léna Lewis-King (b.1999) é uma artista-cineasta baseada em Portugal.
