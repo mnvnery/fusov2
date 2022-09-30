@@ -1,30 +1,33 @@
 ---
 artistas:
-- title: António Braga
-  bio_pt: "<p>Actor, encenador e professor de teatro. Tem 25 anos de experiência de
-    teatro amador e profissional, com participação em vários espetáculos de teatro,
-    de performance, de dança teatro e recitais de poesia. Licenciado em Teatro pela
-    Escola Superior de Teatro e Cinema de Lisboa, fez formação complementar de Corpo
-    e Voz baseado no método Alfabeto do Corpo de Zygmunt Molik com Jorge Parente.
-    Trabalhou como assistente de encenação de João Brites e exerceu funções de coordenador
-    pedagógico e de formador dos cursos de formação promovidos pela companhia de teatro
-    O Bando. Fez formação em Teatro do Oprimido com Sofia Cabrita e Paula Patraquim
-    e desenvolveu tese de mestrado em Bioética versando o tema da aplicação do Teatro
-    do Oprimido no debate de dilemas éticos. Desde 2007 desenvolve trabalho com crianças,
-    jovens e adultos utilizando o teatro como ferramenta de desenvolvimento pessoal
-    numa tripla vertente: pedagógica, terapêutica e social.</p>"
-  bio_eng: "<p>Actor, director and drama teacher, with 25 years of experience in amateur
-    and professional theatre. He participated in various theatre shows, performances,
-    dance theatre and poetry recitals. He graduated in Theatre from the Escola Superior
-    de Teatro e Cinema, and did complementary training with Jorge Parente in Body
-    and Voice, based on the Body Alphabet method of Zygmunt Molik.</p><p>He worked
-    as a staging assistant to João Brites and held functions as pedagogical coordinator
-    and teacher at the courses promoted by the theatre company O Bando. Braga also
-    frequented a course with Sofia Cabrita and Paula Patraquim in Teatro do Oprimido.
-    His Master’s thesis is in Bioethics, with the topic of the operational application
-    of Theater of the Oppressed in the debate on ethical dilemmas. He has been working
-    with children, youngsters and adults since 2007, using theatre as a personal development
-    tool in its pedagogical, therapeutic and social components.</p>"
+- title: 'Marco Machado '
+  bio_pt: "<p>Marco Machado nasceu no século passado no ano de 1981. Desde muito
+    cedo que se deixou fascinar pelos possíveis mundos fora deste mundo e, com 7
+    anos, disse à sua professora primária que queria ser mergulhador como Jacques
+    Cousteau ou cientista como Carl Sagan. O seu talento pelos saltos para a água
+    no verão nunca foram acompanhados pela capacidade de entender a beleza que existe
+    numa equação matemática. Assim, uns anos mais tarde, decidiu licenciar-se em
+    Ciências da Comunicação na vertente de audiovisuais e multimédia, porque na
+    televisão e no cinema todos os mundos são possíveis. Após o curso passou por
+    alguns sets como assistente de realização e produção. Percebeu, na prática,
+    que o glamour da TV só existe nas revistas cor- de-rosa. Decidiu então ser Biólogo
+    e voltou à faculdade para cumprir esse objectivo que culmina com a publicação
+    do seu primeiro e único artigo científico. Em 2015 começa a trabalhar com arte
+    e artistas contemporâneos onde se deixa encantar por outros mundos em outros
+    universos.</p>"
+  bio_eng: "<p>Marco Machado was born last century, in 1981. From an early age, he
+    was fascinated by the possible worlds outside this world and, at the age of 7,
+    he told his primary school teacher that he wanted to be a diver like Jacques Cousteau
+    or a scientist like Carl Sagan. <br>Despite his talent for diving, he had not
+    been aware of the beauty that exists in a mathematical equation. Thus, a few years
+    later, he decided to graduate in Audiovisual and Multimedia Communication Sciences,
+    because he believed that in television and cinema all worlds are possible. After
+    he completed the course, he worked as assistant director in some series, realizing
+    that glamour on TV only exists in tabloids. He then decided to be a biologist
+    and returned to university to fulfil this goal, resulting in the publication of
+    his first and only scientific article. In 2015 he began working with art and with
+    contemporary artists, thrilled by the possibilities of encountering other worlds
+    and other universes.</p>"
   imagem: ''
 - title: Alia Syed
   bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
@@ -66,6 +69,32 @@ artistas:
     films have also been the subject of several solo exhibitions at Talwar Gallery
     in New York and New Delhi. She is represented by Talwar Gallery in New York and
     New Delhi and was nominated for the Jarman Award in 2015.</p>"
+  imagem: ''
+- title: António Braga
+  bio_pt: "<p>Actor, encenador e professor de teatro. Tem 25 anos de experiência de
+    teatro amador e profissional, com participação em vários espetáculos de teatro,
+    de performance, de dança teatro e recitais de poesia. Licenciado em Teatro pela
+    Escola Superior de Teatro e Cinema de Lisboa, fez formação complementar de Corpo
+    e Voz baseado no método Alfabeto do Corpo de Zygmunt Molik com Jorge Parente.
+    Trabalhou como assistente de encenação de João Brites e exerceu funções de coordenador
+    pedagógico e de formador dos cursos de formação promovidos pela companhia de teatro
+    O Bando. Fez formação em Teatro do Oprimido com Sofia Cabrita e Paula Patraquim
+    e desenvolveu tese de mestrado em Bioética versando o tema da aplicação do Teatro
+    do Oprimido no debate de dilemas éticos. Desde 2007 desenvolve trabalho com crianças,
+    jovens e adultos utilizando o teatro como ferramenta de desenvolvimento pessoal
+    numa tripla vertente: pedagógica, terapêutica e social.</p>"
+  bio_eng: "<p>Actor, director and drama teacher, with 25 years of experience in amateur
+    and professional theatre. He participated in various theatre shows, performances,
+    dance theatre and poetry recitals. He graduated in Theatre from the Escola Superior
+    de Teatro e Cinema, and did complementary training with Jorge Parente in Body
+    and Voice, based on the Body Alphabet method of Zygmunt Molik.</p><p>He worked
+    as a staging assistant to João Brites and held functions as pedagogical coordinator
+    and teacher at the courses promoted by the theatre company O Bando. Braga also
+    frequented a course with Sofia Cabrita and Paula Patraquim in Teatro do Oprimido.
+    His Master’s thesis is in Bioethics, with the topic of the operational application
+    of Theater of the Oppressed in the debate on ethical dilemmas. He has been working
+    with children, youngsters and adults since 2007, using theatre as a personal development
+    tool in its pedagogical, therapeutic and social components.</p>"
   imagem: ''
 - title: Gabriela Vaz-Pinheiro
   bio_pt: "<p>Gabriela Vaz-Pinheiro é graduada em escultura pela Faculdade de Belas
