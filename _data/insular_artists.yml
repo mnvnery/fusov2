@@ -1,33 +1,15 @@
 ---
 artistas:
-- title: 'Marco Machado '
-  bio_pt: "<p>Marco Machado nasceu no século passado no ano de 1981. Desde muito
-    cedo que se deixou fascinar pelos possíveis mundos fora deste mundo e, com 7
-    anos, disse à sua professora primária que queria ser mergulhador como Jacques
-    Cousteau ou cientista como Carl Sagan. O seu talento pelos saltos para a água
-    no verão nunca foram acompanhados pela capacidade de entender a beleza que existe
-    numa equação matemática. Assim, uns anos mais tarde, decidiu licenciar-se em
-    Ciências da Comunicação na vertente de audiovisuais e multimédia, porque na
-    televisão e no cinema todos os mundos são possíveis. Após o curso passou por
-    alguns sets como assistente de realização e produção. Percebeu, na prática,
-    que o glamour da TV só existe nas revistas cor- de-rosa. Decidiu então ser Biólogo
-    e voltou à faculdade para cumprir esse objectivo que culmina com a publicação
-    do seu primeiro e único artigo científico. Em 2015 começa a trabalhar com arte
-    e artistas contemporâneos onde se deixa encantar por outros mundos em outros
-    universos.</p>"
-  bio_eng: "<p>Marco Machado was born last century, in 1981. From an early age, he
-    was fascinated by the possible worlds outside this world and, at the age of 7,
-    he told his primary school teacher that he wanted to be a diver like Jacques Cousteau
-    or a scientist like Carl Sagan. <br>Despite his talent for diving, he had not
-    been aware of the beauty that exists in a mathematical equation. Thus, a few years
-    later, he decided to graduate in Audiovisual and Multimedia Communication Sciences,
-    because he believed that in television and cinema all worlds are possible. After
-    he completed the course, he worked as assistant director in some series, realizing
-    that glamour on TV only exists in tabloids. He then decided to be a biologist
-    and returned to university to fulfil this goal, resulting in the publication of
-    his first and only scientific article. In 2015 he began working with art and with
-    contemporary artists, thrilled by the possibilities of encountering other worlds
-    and other universes.</p>"
+- title: Filipe Freitas
+  bio_pt: "<p>Filipe Freitas licenciou-se em Design de Equipamento na faculdade de
+    Lisboa e agora começa os seus estudos na animação 3D e efeitos especiais no mestrado
+    de som e Imagem na Escola das Artes da Universidade católica portuguesa do Porto.
+    Muito do seu trabalho abrange a ficção científica e as criaturas de fantasia.</p>"
+  bio_eng: "<p>Filipe Freitas graduated in Equipment Design at the Universidade de
+    Lisboa and is now beginning his studies in 3D animation and special effects for
+    his master’s degree in sound and image at the Art School at Universidade Católica
+    do Porto (Porto, Portugal). Much of his work addresses science fiction and fantastic
+    creatures.</p>"
   imagem: ''
 - title: Alia Syed
   bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
@@ -277,6 +259,35 @@ artistas:
     Visual Arts Production Stimulus Grant (2014); Marc Ferrez Photography Prize (2012);
     I Pipa Popular Jury Prize in 2010. He is represented in various private and institutional
     collections.</p>"
+  imagem: ''
+- title: 'Marco Machado '
+  bio_pt: "<p>Marco Machado nasceu no século passado no ano de 1981. Desde muito
+    cedo que se deixou fascinar pelos possíveis mundos fora deste mundo e, com 7
+    anos, disse à sua professora primária que queria ser mergulhador como Jacques
+    Cousteau ou cientista como Carl Sagan. O seu talento pelos saltos para a água
+    no verão nunca foram acompanhados pela capacidade de entender a beleza que existe
+    numa equação matemática. Assim, uns anos mais tarde, decidiu licenciar-se em
+    Ciências da Comunicação na vertente de audiovisuais e multimédia, porque na
+    televisão e no cinema todos os mundos são possíveis. Após o curso passou por
+    alguns sets como assistente de realização e produção. Percebeu, na prática,
+    que o glamour da TV só existe nas revistas cor- de-rosa. Decidiu então ser Biólogo
+    e voltou à faculdade para cumprir esse objectivo que culmina com a publicação
+    do seu primeiro e único artigo científico. Em 2015 começa a trabalhar com arte
+    e artistas contemporâneos onde se deixa encantar por outros mundos em outros
+    universos.</p>"
+  bio_eng: "<p>Marco Machado was born last century, in 1981. From an early age, he
+    was fascinated by the possible worlds outside this world and, at the age of 7,
+    he told his primary school teacher that he wanted to be a diver like Jacques Cousteau
+    or a scientist like Carl Sagan. <br>Despite his talent for diving, he had not
+    been aware of the beauty that exists in a mathematical equation. Thus, a few years
+    later, he decided to graduate in Audiovisual and Multimedia Communication Sciences,
+    because he believed that in television and cinema all worlds are possible. After
+    he completed the course, he worked as assistant director in some series, realizing
+    that glamour on TV only exists in tabloids. He then decided to be a biologist
+    and returned to university to fulfil this goal, resulting in the publication of
+    his first and only scientific article. In 2015 he began working with art and with
+    contemporary artists, thrilled by the possibilities of encountering other worlds
+    and other universes.</p>"
   imagem: ''
 - title: Maxime Martinot
   bio_pt: "<p>Maxime Martinot é realizador de cinema, editor e autor. Após os estudos
