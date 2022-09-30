@@ -1,15 +1,14 @@
 ---
 artistas:
-- title: Filipe Freitas
-  bio_pt: "<p>Filipe Freitas licenciou-se em Design de Equipamento na faculdade de
-    Lisboa e agora começa os seus estudos na animação 3D e efeitos especiais no mestrado
-    de som e Imagem na Escola das Artes da Universidade católica portuguesa do Porto.
-    Muito do seu trabalho abrange a ficção científica e as criaturas de fantasia.</p>"
-  bio_eng: "<p>Filipe Freitas graduated in Equipment Design at the Universidade de
-    Lisboa and is now beginning his studies in 3D animation and special effects for
-    his master’s degree in sound and image at the Art School at Universidade Católica
-    do Porto (Porto, Portugal). Much of his work addresses science fiction and fantastic
-    creatures.</p>"
+- title: 'Inês Vieira '
+  bio_pt: "<p>Natural dos Açores, São Miguel, Inês Vieira sempre mostrou interesse
+    nas artes, o que resultou na participação de aulas de teatro e em workshops de
+    atuação para cinema. Atualmente é licenciada em Cinema, na Universidade da Beira
+    Interior, com interesse na área da fotografia.</p>"
+  bio_eng: "<p>Born in São Miguel, in the Azores, <strong>Inês Vieira </strong>always
+    demonstrated an interest in the arts, which resulted in her participation in theatre
+    classes and acting workshops for cinema. She has a graduate degree in Cinema from
+    the Universidade da Beira Interior, with a specialization in the field of photography.</p>"
   imagem: ''
 - title: Alia Syed
   bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
@@ -77,6 +76,17 @@ artistas:
     of Theater of the Oppressed in the debate on ethical dilemmas. He has been working
     with children, youngsters and adults since 2007, using theatre as a personal development
     tool in its pedagogical, therapeutic and social components.</p>"
+  imagem: ''
+- title: Filipe Freitas
+  bio_pt: "<p>Filipe Freitas licenciou-se em Design de Equipamento na faculdade de
+    Lisboa e agora começa os seus estudos na animação 3D e efeitos especiais no mestrado
+    de som e Imagem na Escola das Artes da Universidade católica portuguesa do Porto.
+    Muito do seu trabalho abrange a ficção científica e as criaturas de fantasia.</p>"
+  bio_eng: "<p>Filipe Freitas graduated in Equipment Design at the Universidade de
+    Lisboa and is now beginning his studies in 3D animation and special effects for
+    his master’s degree in sound and image at the Art School at Universidade Católica
+    do Porto (Porto, Portugal). Much of his work addresses science fiction and fantastic
+    creatures.</p>"
   imagem: ''
 - title: Gabriela Vaz-Pinheiro
   bio_pt: "<p>Gabriela Vaz-Pinheiro é graduada em escultura pela Faculdade de Belas
