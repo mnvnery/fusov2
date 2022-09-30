@@ -1,14 +1,14 @@
 ---
 artistas:
-- title: 'Inês Vieira '
-  bio_pt: "<p>Natural dos Açores, São Miguel, Inês Vieira sempre mostrou interesse
-    nas artes, o que resultou na participação de aulas de teatro e em workshops de
-    atuação para cinema. Atualmente é licenciada em Cinema, na Universidade da Beira
-    Interior, com interesse na área da fotografia.</p>"
-  bio_eng: "<p>Born in São Miguel, in the Azores, <strong>Inês Vieira </strong>always
-    demonstrated an interest in the arts, which resulted in her participation in theatre
-    classes and acting workshops for cinema. She has a graduate degree in Cinema from
-    the Universidade da Beira Interior, with a specialization in the field of photography.</p>"
+- title: 'Gabriela Oliveira '
+  bio_pt: "<p>Gabriela Oliveira nasceu nos Açores onde vive e trabalha. É bióloga
+    e gestora ambiental. Foi responsável por projetos de sensibilização ambiental
+    e num passado mais distante trabalhou como guia de turismo na área da observação
+    de cetáceos. É fotógrafa amadora.</p>"
+  bio_eng: "<p>Gabriela Oliveira was born in the Azores, where she lives and works.
+    She is a biologist and environmental manager and is responsible for environmental
+    awareness projects. She had previously worked as a tourist guide in whale watching.
+    Oliveira is also an amateur photographer.</p>"
   imagem: ''
 - title: Alia Syed
   bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
@@ -153,6 +153,16 @@ artistas:
     Academy Awards and in 2021. He wrote, produced, directed and financed the short
     film “A Lisbon Affair”, which is in the official selection at the 29th New York
     African Film Festival, 2022.</p>"
+  imagem: ''
+- title: 'Inês Vieira '
+  bio_pt: "<p>Natural dos Açores, São Miguel, Inês Vieira sempre mostrou interesse
+    nas artes, o que resultou na participação de aulas de teatro e em workshops de
+    atuação para cinema. Atualmente é licenciada em Cinema, na Universidade da Beira
+    Interior, com interesse na área da fotografia.</p>"
+  bio_eng: "<p>Born in São Miguel, in the Azores, <strong>Inês Vieira </strong>always
+    demonstrated an interest in the arts, which resulted in her participation in theatre
+    classes and acting workshops for cinema. She has a graduate degree in Cinema from
+    the Universidade da Beira Interior, with a specialization in the field of photography.</p>"
   imagem: ''
 - title: Júlio F. R. Costa
   bio_pt: "<p>Júlio F. R. Costa (n. 1989) tem escrito e publicado artigos em torno
