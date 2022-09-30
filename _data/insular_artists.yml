@@ -1,34 +1,5 @@
 ---
 artistas:
-- title: Yuri Firmeza
-  bio_pt: '<p>Yuri Firmeza é professor do curso de Cinema e Audiovisual da Universidade
-    Federal do Ceará onde é integrante do LEEA (Laboratório de Estudos e Experimentação
-    em Audiovisual). Doutorando em Arte Multimédia pela Universidade de Lisboa e membro
-    colaborador do CIEBA (Centro de Investigação e Estudos em Belas Artes). Organizou,
-    conjuntamente com Clara Bastos, Leonardo Mouramateus e Érico Araújo Lima, o seminário
-    e o livro “O trabalho das ruínas: genealogias, ficções, (re)montagens” e conjuntamente
-    com Pablo Lobato o livro "O que exatamente vocês fazem, quando fazem ou esperam
-    fazer curadoria?". Participou de festivais de cinema e exposições em diversas
-    cidades do Brasil e do exterior, entre as quais a 31ª Bienal de São Paulo, 14th
-    Biennale Jogja: Stage of Hopelessness – Yogyakarta/Indonesia; 21st Videoex – International
-    Experimental Film &amp; Video Festival Zurich/ Switzerland; 64th e 62nd International
-    Short Film Festival Oberhausen/Germany, 11ª Bienal do Mercosul e a exposição individual
-    Turvações Estratigráficas, no Museu de Arte do Rio de Janeiro.</p>'
-  bio_eng: '<p>Yuri Firmeza is a professor of the Cinema and Audiovisual course at
-    the Federal University of Ceará (Brazil), where he is a member of the Laboratory
-    of Audiovisual Studies and Experimentation. Doctoral candidate in Multimedia Art
-    at the University of Lisbon and collaborating member of CIEBA (Center for Research
-    and Studies in Fine Arts). He organized, together with Clara Bastos, Leonardo
-    Mouramateus and Érico Araújo Lima, the seminar and the book “The work of ruins:
-    genealogies, fictions, (re)montages” and together with Pablo Lobato the book "What
-    exactly do you do, when you do or hope to do curatorship?". He has participated
-    in film festivals and exhibitions in several cities in Brazil and abroad, including
-    the 31st São Paulo Biennial; 14th Biennale Jogja: Stage of Hopelessness – Yogyakarta
-    / Indonesia; 21st Videoex – International Experimental Film &amp; Video Festival
-    Zurich/ Switzerland; 64th and 62nd International Short Film Festival Oberhausen/Germany,
-    11th Mercosul Biennial and the individual exhibition Turvações Estratigráficas,
-    at the Rio de Janeiro Art Museum (MAR).</p>'
-  imagem: ''
 - title: Alia Syed
   bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
     Faz cinema experimental há mais de 25 anos. Os seus filmes recaem sobre questões
@@ -534,4 +505,33 @@ artistas:
     in public collections including The Museum of Art, Architecture and Technology
     (MAAT), The Calouste Gulbenkian Foundation, and The National Museum of Contemporary
     Art in Lisbon, Portugal.</p>"
+  imagem: ''
+- title: Yuri Firmeza
+  bio_pt: '<p>Yuri Firmeza é professor do curso de Cinema e Audiovisual da Universidade
+    Federal do Ceará onde é integrante do LEEA (Laboratório de Estudos e Experimentação
+    em Audiovisual). Doutorando em Arte Multimédia pela Universidade de Lisboa e membro
+    colaborador do CIEBA (Centro de Investigação e Estudos em Belas Artes). Organizou,
+    conjuntamente com Clara Bastos, Leonardo Mouramateus e Érico Araújo Lima, o seminário
+    e o livro “O trabalho das ruínas: genealogias, ficções, (re)montagens” e conjuntamente
+    com Pablo Lobato o livro "O que exatamente vocês fazem, quando fazem ou esperam
+    fazer curadoria?". Participou de festivais de cinema e exposições em diversas
+    cidades do Brasil e do exterior, entre as quais a 31ª Bienal de São Paulo, 14th
+    Biennale Jogja: Stage of Hopelessness – Yogyakarta/Indonesia; 21st Videoex – International
+    Experimental Film &amp; Video Festival Zurich/ Switzerland; 64th e 62nd International
+    Short Film Festival Oberhausen/Germany, 11ª Bienal do Mercosul e a exposição individual
+    Turvações Estratigráficas, no Museu de Arte do Rio de Janeiro.</p>'
+  bio_eng: '<p>Yuri Firmeza is a professor of the Cinema and Audiovisual course at
+    the Federal University of Ceará (Brazil), where he is a member of the Laboratory
+    of Audiovisual Studies and Experimentation. Doctoral candidate in Multimedia Art
+    at the University of Lisbon and collaborating member of CIEBA (Center for Research
+    and Studies in Fine Arts). He organized, together with Clara Bastos, Leonardo
+    Mouramateus and Érico Araújo Lima, the seminar and the book “The work of ruins:
+    genealogies, fictions, (re)montages” and together with Pablo Lobato the book "What
+    exactly do you do, when you do or hope to do curatorship?". He has participated
+    in film festivals and exhibitions in several cities in Brazil and abroad, including
+    the 31st São Paulo Biennial; 14th Biennale Jogja: Stage of Hopelessness – Yogyakarta
+    / Indonesia; 21st Videoex – International Experimental Film &amp; Video Festival
+    Zurich/ Switzerland; 64th and 62nd International Short Film Festival Oberhausen/Germany,
+    11th Mercosul Biennial and the individual exhibition Turvações Estratigráficas,
+    at the Rio de Janeiro Art Museum (MAR).</p>'
   imagem: ''
