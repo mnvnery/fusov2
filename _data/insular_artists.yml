@@ -1,15 +1,5 @@
 ---
 artistas:
-- title: 'Gabriela Oliveira '
-  bio_pt: "<p>Gabriela Oliveira nasceu nos Açores onde vive e trabalha. É bióloga
-    e gestora ambiental. Foi responsável por projetos de sensibilização ambiental
-    e num passado mais distante trabalhou como guia de turismo na área da observação
-    de cetáceos. É fotógrafa amadora.</p>"
-  bio_eng: "<p>Gabriela Oliveira was born in the Azores, where she lives and works.
-    She is a biologist and environmental manager and is responsible for environmental
-    awareness projects. She had previously worked as a tourist guide in whale watching.
-    Oliveira is also an amateur photographer.</p>"
-  imagem: ''
 - title: Alia Syed
   bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
     Faz cinema experimental há mais de 25 anos. Os seus filmes recaem sobre questões
@@ -87,6 +77,16 @@ artistas:
     his master’s degree in sound and image at the Art School at Universidade Católica
     do Porto (Porto, Portugal). Much of his work addresses science fiction and fantastic
     creatures.</p>"
+  imagem: ''
+- title: 'Gabriela Oliveira '
+  bio_pt: "<p>Gabriela Oliveira nasceu nos Açores onde vive e trabalha. É bióloga
+    e gestora ambiental. Foi responsável por projetos de sensibilização ambiental
+    e num passado mais distante trabalhou como guia de turismo na área da observação
+    de cetáceos. É fotógrafa amadora.</p>"
+  bio_eng: "<p>Gabriela Oliveira was born in the Azores, where she lives and works.
+    She is a biologist and environmental manager and is responsible for environmental
+    awareness projects. She had previously worked as a tourist guide in whale watching.
+    Oliveira is also an amateur photographer.</p>"
   imagem: ''
 - title: Gabriela Vaz-Pinheiro
   bio_pt: "<p>Gabriela Vaz-Pinheiro é graduada em escultura pela Faculdade de Belas
