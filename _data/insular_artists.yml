@@ -1,12 +1,33 @@
 ---
 artistas:
-- title: John Tokumei
-  bio_pt: "<p>John Tokumei gosta de ficar acordado até às tantas a criar coisas novas.<br>Desde
-    a música até o desenho e mais recentemente filmes, Tokumei é um estudante de tudo
-    o que provém da alma.</p>"
-  bio_eng: "<p>John Tokumei likes to stay up until late creating new things.<br>From
-    music to drawing and most recently, films. Tokumei is a student of all that comes
-    from the soul.</p>"
+- title: Yuri Firmeza
+  bio_pt: '<p>Yuri Firmeza é professor do curso de Cinema e Audiovisual da Universidade
+    Federal do Ceará onde é integrante do LEEA (Laboratório de Estudos e Experimentação
+    em Audiovisual). Doutorando em Arte Multimédia pela Universidade de Lisboa e membro
+    colaborador do CIEBA (Centro de Investigação e Estudos em Belas Artes). Organizou,
+    conjuntamente com Clara Bastos, Leonardo Mouramateus e Érico Araújo Lima, o seminário
+    e o livro “O trabalho das ruínas: genealogias, ficções, (re)montagens” e conjuntamente
+    com Pablo Lobato o livro "O que exatamente vocês fazem, quando fazem ou esperam
+    fazer curadoria?". Participou de festivais de cinema e exposições em diversas
+    cidades do Brasil e do exterior, entre as quais a 31ª Bienal de São Paulo, 14th
+    Biennale Jogja: Stage of Hopelessness – Yogyakarta/Indonesia; 21st Videoex – International
+    Experimental Film &amp; Video Festival Zurich/ Switzerland; 64th e 62nd International
+    Short Film Festival Oberhausen/Germany, 11ª Bienal do Mercosul e a exposição individual
+    Turvações Estratigráficas, no Museu de Arte do Rio de Janeiro.</p>'
+  bio_eng: '<p>Yuri Firmeza is a professor of the Cinema and Audiovisual course at
+    the Federal University of Ceará (Brazil), where he is a member of the Laboratory
+    of Audiovisual Studies and Experimentation. Doctoral candidate in Multimedia Art
+    at the University of Lisbon and collaborating member of CIEBA (Center for Research
+    and Studies in Fine Arts). He organized, together with Clara Bastos, Leonardo
+    Mouramateus and Érico Araújo Lima, the seminar and the book “The work of ruins:
+    genealogies, fictions, (re)montages” and together with Pablo Lobato the book "What
+    exactly do you do, when you do or hope to do curatorship?". He has participated
+    in film festivals and exhibitions in several cities in Brazil and abroad, including
+    the 31st São Paulo Biennial; 14th Biennale Jogja: Stage of Hopelessness – Yogyakarta
+    / Indonesia; 21st Videoex – International Experimental Film &amp; Video Festival
+    Zurich/ Switzerland; 64th and 62nd International Short Film Festival Oberhausen/Germany,
+    11th Mercosul Biennial and the individual exhibition Turvações Estratigráficas,
+    at the Rio de Janeiro Art Museum (MAR).</p>'
   imagem: ''
 - title: Alia Syed
   bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
@@ -181,26 +202,13 @@ artistas:
     classes and acting workshops for cinema. She has a graduate degree in Cinema from
     the Universidade da Beira Interior, with a specialization in the field of photography.</p>"
   imagem: ''
-- title: Júlio F. R. Costa
-  bio_pt: "<p>Júlio F. R. Costa (n. 1989) tem escrito e publicado artigos em torno
-    de uma filosofia do mercado da arte contemporânea, nomeadamente acerca da obra
-    de arte enquanto mercadoria e da posição do artista no mundo da arte atual. Enquanto
-    artista visual está principalmente interessado no vídeo-experimentalismo, com
-    ênfase nas animações experimentais – aproveitando o gosto pelo desenho para as
-    tornar “um bocadinho animadas”. Tem participado em festivais nacionais e internacionais,
-    bem como em exposições de artes visuais. O seu primeiro romance “Retalhos da Vida
-    de Eduardo Lopo” foi publicado em 2019. É presidente do Colectivo 249 (www.colectivo249.com),
-    onde luta pela descentralização da Arte.</p>"
-  bio_eng: <p>Júlio F. R. Costa (b. 1989) has written and published articles in the
-    ambit of a philosophy within the framework of the contemporary art market, namely
-    about the work of art as a commodity and the position of the artist in today's
-    art world. As a visual artist, he is interested in experimental video with an
-    emphasis on experimental animation - taking advantage of his taste for drawing
-    to make it "a bit more animated". He has participated in national and international
-    festivals, as well as art exhibitions. His first novel “Retalhos da Vida de Eduardo
-    Lopo'' (Fragments of the Life of Eduardo Lopo) was published in 2019. Costa is
-    President of Colectivo249 (www.colectivo249.com), where he fights for the decentralization
-    of Art.</p>
+- title: John Tokumei
+  bio_pt: "<p>John Tokumei gosta de ficar acordado até às tantas a criar coisas novas.<br>Desde
+    a música até o desenho e mais recentemente filmes, Tokumei é um estudante de tudo
+    o que provém da alma.</p>"
+  bio_eng: "<p>John Tokumei likes to stay up until late creating new things.<br>From
+    music to drawing and most recently, films. Tokumei is a student of all that comes
+    from the soul.</p>"
   imagem: ''
 - title: José Taborda
   bio_pt: '<p>José Taborda (n. Lisboa 1994). Licenciado em Pintura pela Faculdade
@@ -230,6 +238,27 @@ artistas:
     Gallery, Porto (2021); “New Beginnings”, VOGUE Magazine Portugal (2021); Maia
     Bienal, Forum Maia, Portugal (2021); “9 Gabinetes”, MU.SA, Sintra, Portugal (2021);
     “Cruise Control”, Mono, Lisbon (2021).</p>"
+  imagem: ''
+- title: Júlio F. R. Costa
+  bio_pt: "<p>Júlio F. R. Costa (n. 1989) tem escrito e publicado artigos em torno
+    de uma filosofia do mercado da arte contemporânea, nomeadamente acerca da obra
+    de arte enquanto mercadoria e da posição do artista no mundo da arte atual. Enquanto
+    artista visual está principalmente interessado no vídeo-experimentalismo, com
+    ênfase nas animações experimentais – aproveitando o gosto pelo desenho para as
+    tornar “um bocadinho animadas”. Tem participado em festivais nacionais e internacionais,
+    bem como em exposições de artes visuais. O seu primeiro romance “Retalhos da Vida
+    de Eduardo Lopo” foi publicado em 2019. É presidente do Colectivo 249 (www.colectivo249.com),
+    onde luta pela descentralização da Arte.</p>"
+  bio_eng: <p>Júlio F. R. Costa (b. 1989) has written and published articles in the
+    ambit of a philosophy within the framework of the contemporary art market, namely
+    about the work of art as a commodity and the position of the artist in today's
+    art world. As a visual artist, he is interested in experimental video with an
+    emphasis on experimental animation - taking advantage of his taste for drawing
+    to make it "a bit more animated". He has participated in national and international
+    festivals, as well as art exhibitions. His first novel “Retalhos da Vida de Eduardo
+    Lopo'' (Fragments of the Life of Eduardo Lopo) was published in 2019. Costa is
+    President of Colectivo249 (www.colectivo249.com), where he fights for the decentralization
+    of Art.</p>
   imagem: ''
 - title: Laura Brasil
   bio_pt: "<p>Laura Brasil<strong> </strong>é uma realizadora açoriana, natural de
