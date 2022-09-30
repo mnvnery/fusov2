@@ -1,5 +1,13 @@
 ---
 artistas:
+- title: John Tokumei
+  bio_pt: "<p>John Tokumei gosta de ficar acordado até às tantas a criar coisas novas.<br>Desde
+    a música até o desenho e mais recentemente filmes, Tokumei é um estudante de tudo
+    o que provém da alma.</p>"
+  bio_eng: "<p>John Tokumei likes to stay up until late creating new things.<br>From
+    music to drawing and most recently, films. Tokumei is a student of all that comes
+    from the soul.</p>"
+  imagem: ''
 - title: Alia Syed
   bio_pt: "<p>Alia Syed nasceu em Swansea, País de Gales, e vive entre Londres e Glasgow.
     Faz cinema experimental há mais de 25 anos. Os seus filmes recaem sobre questões
@@ -66,6 +74,15 @@ artistas:
     of Theater of the Oppressed in the debate on ethical dilemmas. He has been working
     with children, youngsters and adults since 2007, using theatre as a personal development
     tool in its pedagogical, therapeutic and social components.</p>"
+  imagem: ''
+- title: Cristiana Branquinho
+  bio_pt: "<p>Sou a Cristiana Branquinho, tenho 19 anos e nasci em São Miguel. Atualmente
+    estou tirando a licenciatura em Teatro na ESAD em Caldas da Rainha, porém anteriormente,
+    estudei no liceu Antero de Quental, Açores, onde cursei artes visuais.</p>"
+  bio_eng: "<p>I am Cristiana Branquinho, I’m 19 years old and I was born in São Miguel.
+    <br>I am currently studying for a degree in Theatre at ESAD in Caldas da Rainha.
+    Previously, I was enrolled at the Antero de Quental high school, Azores, where
+    I studied visual arts.</p>"
   imagem: ''
 - title: Filipe Freitas
   bio_pt: "<p>Filipe Freitas licenciou-se em Design de Equipamento na faculdade de
