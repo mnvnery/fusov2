@@ -1,15 +1,18 @@
 ---
 layout: fuso-insular-eng
 ---
-<div class="border border-dark border-2 border-bottom-0 background-white">
-    <img src="{{site.baseurl}}/assets/img/insular_home_lab-02.jpg" alt="Laboratorio Candidaturas 20 Maio a 20 Junho 2022" class="w-100 border-red desktop">
-    <img src="{{site.baseurl}}/assets/img/mobile-hero-lab-eng.jpg" alt="Laboratorio Candidaturas 20 Maio a 20 Junho 2022" class="w-100 border-red mobile">
+<div class="fuso mx-3 mb-3 fuso-programs">
+    {% assign programs = site.insular_programs | sort:'data' %}
+    {% for programa in programs  %}
+    <a href="{{programa.url}}"><div class="border border-2 border-dark mx-2 mb-3 position-relative programa-container">
+        <img src="{{site.baseurl}}/{{programa.imagem}}" alt="imagem-evento" class="h-100 w-100 object-fit-cover saturate">
+        <div class="position-absolute d-flex top-0 left-0 text-red p-3 gradient w-100">
+            <h1 class="font-rossa prog-title">{{ programa.data }}<br>Agosto</h1>
+            <h5 class="ms-5 w-md-25">{{ programa.title_eng }}</h5>
+        </div>
+    </div></a>
+    {% endfor %}
 </div>
-<div class="border border-dark border-2">
-    <img src="{{site.baseurl}}/assets/img/hero-insular-eng.jpg" alt="Fuso Insular 2022 28 a 30 de Outubro" class="w-100 desktop">
-    <img src="{{site.baseurl}}/assets/img/mobile-insular-eng.jpg" alt="Fuso Insular 2022 28 a 30 de Outubro" class="w-100 mobile">
-</div>
-
 <script>
     window.onscroll = function() {
         growShrinkLogo()
