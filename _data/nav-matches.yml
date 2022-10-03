@@ -18,3 +18,9 @@
   eng-version: /fuso-insular-eng/laboratory/
 - pt-version: /fuso-insular/laboratorio/
   eng-version: /fuso-insular-eng/laboratory/
+- pt-version: /fuso-insular/curadores/
+  eng-version: /fuso-insular-eng/curators/
+- pt-version: /fuso-insular/programa/
+  eng-version: /fuso-insular-eng/program/
+- pt-version: /fuso-insular/artistas/
+  eng-version: /fuso-insular-eng/artists/

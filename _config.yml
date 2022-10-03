@@ -26,6 +26,10 @@ collections:
     output: true
   insular_eventos:
     output: true
+  insular_events:
+    output: true
+  insular_programs:
+    output: true
 
 # exclude:
 #   - .sass-cache/
